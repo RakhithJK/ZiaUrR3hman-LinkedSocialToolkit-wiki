@@ -37,3 +37,94 @@ LinkedIn have 500 million+ members, studies show that **80% of B2B** leads come 
 ### Accept and withdraw invites
 **Linked Social Toolkit** supports to accept all received invitations as well as withdraw pending sent invitations.
  
+# Features
+### Messaging
+* Create campaigns for messages
+* Send personalized messages to your all your connections
+* Send personalized messages to targeted connections
+* Send personalized birthday greetings
+* Send personalized work anniversary greetings
+* Send personalized new job, promotion and addition position greetings
+* Send follow up messages to new connections in real-time
+* Auto respond to messages in real-time
+* Auto reply with personalized message to birthday wishes, work anniversary and new job greetings.
+* Auto reply with personalized message to endorsement acknowledgments
+* Send images and files as attachments with your message
+* Send profile views while sending message to prospect
+* You can schedule your messages, add a daily limit and custom delays
+### Connect
+* Connect with 2nd and 3rd degree connections
+* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
+* Connect users with premium membership
+* Send personalized message with invitation
+* Find active prospects from post feeds and connect with thousands within a week
+* Connect with user who liked posts in post feeds
+* Connect with users from feeds based on keywords in profile title
+* Connect with users who commented on posts in feeds
+* Connect with users who liked or commented some specific post, article or video
+* Send profile views while connecting with prospect
+* You can schedule connections invitations, add a daily limit and custom delays
+ 
+### Endorse
+* Endorse all your connections’ skills
+* Endorse targeted connections’ skills
+* Auto endorse when someone message you with some text or keyword
+* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
+* Endorse connections skills without sending profile view
+* Send profile views while endorsing skills of prospect
+* You can schedule skills endorsements, add a daily limit and custom delays
+### Follow
+* Follow 1st, 2nd and 3rd degree connections
+* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
+* Send follow notification to connections
+* Send profile views while following prospect
+* You can schedule follow connections, add a daily limit and custom delays
+### View profiles
+* View 1st, 2nd and 3rd degree connections
+* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
+* Send profile views while sending message to prospect
+* Send profile views while connecting with prospect
+* Send profile views while following prospect
+* Send profile views while endorsing skills of prospect
+* Send profile views while sending birthday wishes, work anniversary and new job greetings
+* You can schedule view connections profiles, add a daily limit and custom delays
+### Auto responder
+* Auto respond with personalized message to birthday wishes, work anniversary and new job greetings.
+* Auto respond to “Thank you messages” from your connections after endorsing their skills
+* Auto endorse connections skills when they message you with specific text or keyword
+* Auto respond with custom message after finishing endorsement
+* Auto respond to new connections with personalized follow up messages
+* Exclude new connections from auto responder based on their company name
+* Create your own unlimited auto responder
+* Send images and files as attachments with your auto reply messages
+* You can schedule auto responder, add a daily limit and custom delays
+### Connections profile data
+* Download data of all your 1st connections as CSV file
+* Download profile information of 2nd or 3rd connections
+* Export targeted prospects to Excel
+* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
+* You can schedule for profile information, add a daily limit and custom delays
+### Remove connections
+* Clean up your network from unnecessary connections
+* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
+* You can schedule remove connections, add a daily limit and custom delays
+### Like
+* Like posts and comments seamlessly 
+* Sort posts by top and recent filters
+* Like posts based on some keywords
+* Like sponsored posts
+* You can schedule likes, add a daily limit and custom delays
+### Withdraw invites
+* Withdraw sent invitations with days’ filter 
+### Accept invites
+* Accept received invitations with days’ filter	
+### Cross browser support for
+* Google Chrome -  full support
+* Mozilla Firefox -  full support
+* Opera -  full support
+* Microsoft Edge -  full support
+### Extension settings
+* Export settings as backup or to import on other browser
+* Import settings in case of new installation
+* Restore all settings to default
+* Cloud based synchronization
