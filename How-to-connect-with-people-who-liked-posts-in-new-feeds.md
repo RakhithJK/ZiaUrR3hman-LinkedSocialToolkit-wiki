@@ -15,18 +15,18 @@ Follow these steps for inviting or connecting with people
 ### Sorting posts
 You can sort posts by top post or by recent posts. Select any option from drop-down.
 
-![How-to-sort-posts-in-new-feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-sort-posts-in-new-feeds-image307.jpg)
+![How-to-sort-posts-in-new-feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-sort-posts-in-new-feeds-image307.png)
 
 ### Connections
 You can choose either you want to connect with 2nd or 3rd degree connections or both from post feed who liked posts or commented on posts. It is recommended to connect with 2nd degree connection only.
 
-![connect or invite 2nd or 3rd degree connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image308.jpg) 
+![connect or invite 2nd or 3rd degree connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image308.png) 
 
 ### Posts keywords
 Enter comma separated keywords in posts keywords text area and check “**Like posts based on keywords**” checkbox, If you want to connect people who liked posts that have some keywords in post description. 
 
-![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image309.jpg)
-![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image310.jpg)
+![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image309.png)
+![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image310.png)
 
 If you unchecked “**Like posts based on keywords**” option, then script will not search for keywords in posts otherwise it will send invitation to people if any keywords found.
 
@@ -50,14 +50,14 @@ Start position is the initial value where script start searching for posts then 
 ### Delay
 Delay between sending invitations to people in seconds.
 
-![Total comments, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image315.jpg)
+![Total comments, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image315.png)
 
 ### Connect to user who liked post
 Check this checkbox if you want to connect to users who liked posts in feeds.
 ### Connect to user who commented
 Check this checkbox if you want to connect to users who commented on posts in feeds.
 
-![Like posts, comments, sponsored posts, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image316.jpg)
+![Like posts, comments, sponsored posts, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image316.png)
 
 ## Note
 If “**Like posts based on keywords**” is checked and “**Connect to user based on keywords**” is also checked then script will first search for keywords in posts description, if any keyword found then script will get list of users who liked or commented on that post and then script search for keywords in their profile headline or title.
