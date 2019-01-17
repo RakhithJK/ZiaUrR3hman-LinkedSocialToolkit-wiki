@@ -14,10 +14,12 @@ Follow these steps for inviting or connecting with people
 ## Feature explanation
 ### Sorting posts
 You can sort posts by top post or by recent posts. Select any option from drop-down.
+
 ![How-to-sort-posts-in-new-feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-sort-posts-in-new-feeds-image307.jpg)
 
 ### Connections
 You can choose either you want to connect with 2nd or 3rd degree connections or both from post feed who liked posts or commented on posts. It is recommended to connect with 2nd degree connection only.
+
 ![connect or invite 2nd or 3rd degree connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image308.jpg) 
 
 ### Posts keywords
