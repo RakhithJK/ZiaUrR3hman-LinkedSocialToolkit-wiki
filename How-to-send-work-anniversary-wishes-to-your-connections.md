@@ -21,7 +21,7 @@ You can send images and files as attachments with your work anniversary greeting
 ![Send images and files as attachments with your work anniversary greeting message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
 
 ### Profile views
-To send profile view notification to connection whom you are sending birthday greeting message just check the “**Send profile view notification**” checkbox.
+To send profile view notification to connection whom you are sending work anniversary greeting message just check the “**Send profile view notification**” checkbox.
 ![Send profile view notification to connection whom you are sending work anniversary greeting message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-profile-view.png)
 
 Click on “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from sending work anniversary greetings.
