@@ -47,7 +47,7 @@ Check “**Like sponsored posts**” checkbox if you want to like sponsored post
 Check this checkbox if you want to connect to users who liked posts in feeds.
 ### Connect to user who commented
 Check this checkbox if you want to connect to users who commented on posts in feeds.
- 
+![Total comments, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image316.jpg)
 
 Click on “**Stop script execution**” button to stop script from liking posts, comments or connecting.
  
