@@ -18,7 +18,6 @@ You can sort posts by top post or by recent posts. Select any option from drop-d
 Enter comma separated keywords in posts keywords text area and check “**Like posts based on keywords**” checkbox, If you want to like posts based on some keywords. 
 
 ![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image309.jpg)
-
 ![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image310.jpg)
 
 If you unchecked “**Like posts based on keywords**” option, then script will not search for keywords in posts otherwise it will like all posts or like comments if any keywords found.
@@ -43,12 +42,7 @@ Check “**Like posts**” checkbox if you want to like posts.
 Check “**Like comments**” checkbox if you want to like comments on posts.
 ### Like sponsored posts
 Check “**Like sponsored posts**” checkbox if you want to like sponsored posts.
-### Connect to user who liked post
-Check this checkbox if you want to connect to users who liked posts in feeds.
-### Connect to user who commented
-Check this checkbox if you want to connect to users who commented on posts in feeds.
-![Total comments, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image316.jpg)
-
+![Like posts, comments, sponsored posts, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image316.jpg)
 Click on “**Stop script execution**” button to stop script from liking posts, comments or connecting.
  
 
