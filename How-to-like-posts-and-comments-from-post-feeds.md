@@ -15,9 +15,12 @@ You can sort posts by top post or by recent posts. Select any option from drop-d
 ![How-to-sort-posts-in-new-feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-sort-posts-in-new-feeds-image307.jpg)
  
 ### Posts keywords
-Enter comma separated keywords in posts keywords text area and check “**Like posts based on keywords**” checkbox If you want to like posts based on some keywords. 
+Enter comma separated keywords in posts keywords text area and check “**Like posts based on keywords**” checkbox, If you want to like posts based on some keywords. 
+
 ![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image309.jpg)
+
 ![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image310.jpg)
+
 If you unchecked “**Like posts based on keywords**” option, then script will not search for keywords in posts otherwise it will like all posts or like comments if any keywords found.
  
 ### Comments per posts
