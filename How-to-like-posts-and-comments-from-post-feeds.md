@@ -43,6 +43,7 @@ Check “**Like comments**” checkbox if you want to like comments on posts.
 ### Like sponsored posts
 Check “**Like sponsored posts**” checkbox if you want to like sponsored posts.
 ![Like posts, comments, sponsored posts, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image316.jpg)
+
 Click on “**Stop script execution**” button to stop script from liking posts, comments or connecting.
  
 
