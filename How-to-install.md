@@ -15,4 +15,14 @@
 2. Once **Tampermonkey add-on** is installed, open script link which you received in email after placing your order from Firefox. When you open script link, Tampermonkey will ask you to confirm, click on “**Install**” button, then visit or refresh LinkedIn website and you are ready to go.
  ![How to Install Tampermonkey Extension on Mozilla Firefox](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Linked-Social-Toolkit-on-Mozilla-Firefox-image010.jpg)
 
+### Opera
+1. Open [this link](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) from Opera and click on “**Add to Opera**” to install Tampermonkey
+  ![How to Install Tampermonkey Extension on Opera](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Tampermonkey-Extension-on-Opera-image303.jpg)
+2. Once **Tampermonkey add-on** is installed, open script link which you received in email after placing your order from Opera. When you open script link, Tampermonkey will ask you to confirm, click on “Install” button, then visit or refresh LinkedIn website and you are ready to go.
+  ![How to Install Tampermonkey Extension on Opera](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Linked-Social-Toolkit-on-Opera-image304.jpg)
  
+### Microsoft Edge
+1. Open [this link](https://www.microsoft.com/store/apps/9NBLGGH5162S) from Edge and click on “**Get**”, it will open Store app, click on “Install” to install Tampermonkey
+ ![How to Install Tampermonkey Extension on Opera](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Tampermonkey-Extension-on-Microsoft-Edge-image305.jpg)
+2. Once **Tampermonkey extension** is installed, open script link which you received in email after placing your order from Edge. When you open script link, Tampermonkey will ask you to confirm, click on “Install” button, then visit or refresh LinkedIn website and you are ready to go.
+![How to Install Tampermonkey Extension on Opera](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Linked-Social-Toolkit-on-Microsoft-Edge-image306.jpg)
