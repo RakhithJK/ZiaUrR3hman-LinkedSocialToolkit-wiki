@@ -5,14 +5,14 @@
 ### Google Chrome
 
 1. Open [this link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) from Chrome and click on “**Add to Chrome**” to install Tampermonkey
-![How to Install Tampermonkey Extension on Google Chrome](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Tampermonkey-Extension-on-Google-Chrome-image004.png) 
+![How to Install Tampermonkey Extension on Google Chrome](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Tampermonkey-Extension-on-Google-Chrome-image001.png) 
 2. Once **Tampermonkey extension** is installed, open script link which you received in email after placing your order. When you open script link, Tampermonkey will ask you to confirm, click on “**Install**” button, then visit or refresh LinkedIn website and you are ready to go.
-![How to Install Linked Social Toolkit on Google Chrome](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Linked-Social-Toolkit-on-Google-Chrome-image006.png) 
+![How to Install Linked Social Toolkit on Google Chrome](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Linked-Social-Toolkit-on-Google-Chrome-image002.jpg) 
 
 ### Mozilla Firefox
-1.Open [this link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) from Firefox and click on “**Add to Firefox**” to install add-on
- ![How to Install Tampermonkey Extension on Mozilla Firefox](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Tampermonkey-addon-on-Mozilla-Firefox-image008.png)
-2.Once **Tampermonkey add-on** is installed, open script link which you received in email after placing your order from Firefox. When you open script link, Tampermonkey will ask you to confirm, click on “**Install**” button, then visit or refresh LinkedIn website and you are ready to go.
- ![How to Install Tampermonkey Extension on Mozilla Firefox](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Linked-Social-Toolkit-on-Mozilla-Firefox-image010.png)
+1. Open [this link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) from Firefox and click on “**Add to Firefox**” to install add-on
+ ![How to Install Tampermonkey Extension on Mozilla Firefox](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Tampermonkey-addon-on-Mozilla-Firefox-image003.jpg)
+2. Once **Tampermonkey add-on** is installed, open script link which you received in email after placing your order from Firefox. When you open script link, Tampermonkey will ask you to confirm, click on “**Install**” button, then visit or refresh LinkedIn website and you are ready to go.
+ ![How to Install Tampermonkey Extension on Mozilla Firefox](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Install-Linked-Social-Toolkit-on-Mozilla-Firefox-image010.jpg)
 
  
