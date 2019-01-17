@@ -23,7 +23,7 @@ You can choose either you want to connect with 2nd or 3rd degree connections or 
 ![connect or invite 2nd or 3rd degree connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image308.png) 
 
 ### Posts keywords
-Enter comma separated keywords in posts keywords text area and check “**Like posts based on keywords**” checkbox, If you want to connect people who liked posts that have some keywords in post description. 
+Enter comma separated keywords in posts keywords text area and check “**Like posts based on keywords**” checkbox, If you want to connect people who commented on posts that have some keywords in post description. 
 
 ![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image309.png)
 ![How-to-like-posts-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-based-on-some-keywords-image310.png)
