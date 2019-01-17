@@ -2,7 +2,7 @@ You can like **top** or **recent** posts and comments from posts feeds seamlessl
 
 ![How to like posts, like comments or connect with new connections from post feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-like-comments-or-connect-with-new-connections-from-post-feeds-image020.png) 
 
-Follow these steps
+Follow these steps to like posts or comments
 1. Select your sorting option "**Top**" or "**Recent**"
 2. Enter comma separated keywords in "**Post keywords**" text area, if you want to like posts based on some keywords
 3. Enter value for total number of posts and comments you want to like
@@ -42,7 +42,9 @@ Check “**Like posts**” checkbox if you want to like posts.
 Check “**Like comments**” checkbox if you want to like comments on posts.
 ### Like sponsored posts
 Check “**Like sponsored posts**” checkbox if you want to like sponsored posts.
+
 ![Like posts, comments, sponsored posts, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image316.jpg)
+
 
 Click on “**Stop script execution**” button to stop script from liking posts, comments or connecting.
  
