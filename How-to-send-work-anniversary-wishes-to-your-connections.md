@@ -6,7 +6,7 @@ You can send customized work anniversary greetings to your connections who have 
 ![How to send work anniversary wishes to your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-send-work-anniversary-wishes-to-your-connections.png)
 
 Follow these steps for sending customized work anniversary wishes
-1. Enter your greeting message
+1. Enter your greeting message including **@firstName** and **@yearsAtCompany** shot-codes
 2. Click on "**Send**" button
 
 ## Feature explanation
