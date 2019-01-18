@@ -2,7 +2,7 @@ LinkedIn’s messaging platform has taken the business world by storm in recent 
 
 There are two ways to send a mass messages to all your connections
 1. Message all connections
-2. Message targeted connections
+2. [Message targeted connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-message-targeted-connections)
 
 ## Message all connections
 You can send your message to all your contacts at once. Click on “**Message all connections**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
@@ -53,13 +53,9 @@ This is the total number connections you want to send messages.
 ### Delay
 This is the delay between each message in seconds. 
 ### Start position
-If you are sending messages using “**message all connections**”, then Start position 0 would be the most recently added connection in your [connection list](https://www.linkedin.com/mynetwork/invite-connect/connections/).
+Start position 0 would be the most recently added connection in your [connection list](https://www.linkedin.com/mynetwork/invite-connect/connections/).
 
 ![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-MyNetwork.png)
-
-If you are sending message using “**Message targeted user**” option, then Start position 0 would be the first record in your [search result](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
-
-![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Search.png)
 
 ### Attachments
 You can send images and files as attachments with your message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
