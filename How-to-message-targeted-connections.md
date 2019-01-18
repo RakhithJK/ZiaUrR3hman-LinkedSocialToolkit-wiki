@@ -57,7 +57,7 @@ To search for a specific person, enter your keyword into the Search field.
 
 **Notes**
 * You can search using keywords such as company or job title. For example, you can search for “**Richard Branson Founder**".
-* If you don’t know the full name of the person you’re searching for, enter other information that you know about them. For example, you can search for “Editor The Kansas City Star”.
+* If you don’t know the full name of the person you’re searching for, enter other information that you know about them. For example, you can search for “**Editor The Kansas City Star**”.
 * You can also search for multiple people by typing your search criteria into the search bar.
 Keep search field blank, if you don’t want to search by keyword or search term.
 
@@ -107,7 +107,7 @@ For example, to search for current software engineers not named Doe, who have at
 * Use quotes for multi-word search terms.
 * Use parentheses for AND, OR and NOT phrases.
 * Commas should not be included in between multiple search operators.
-* Spaces should not be included in between the search operator and the search term, such as lastname:doe.
+* Spaces should not be included in between the search operator and the search term, such as **lastname:doe**.
 * Wildcard "*" searches not supported. 
 
 ### Keywords search filter
@@ -122,6 +122,7 @@ This search filter is used to search for common or mutual connections. Click on 
 
 ### Location search filter
 When searching for people or jobs, you can limit your search to single or multiple locations.
+
 **Entering locations in your search filed**
 Enter your search term in the Search field at the top of script interface.
 For example: product manager California
@@ -129,6 +130,7 @@ For example: product manager California
 ![Entering locations in your search filed](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Search.png)
 
 **Filtering searches using the Locations filter**
+
 You can limit your search to single or multiple locations by using the Locations. To filter your search using the Locations filter click on “**Locations**” tab, enter the location name in the location search field, press enter button or click search icon. From search results select location.  You can add multiple locations in the same search.
 
 ![Filtering searches using the Locations filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Filtering-searches-using-the-Locations-filter.png)
