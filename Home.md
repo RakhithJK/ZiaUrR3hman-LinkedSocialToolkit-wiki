@@ -4,6 +4,7 @@
 LinkedIn have 500 million+ members, studies show that **80% of B2B** leads come from LinkedIn. With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and faster to search, attract and engage with prospective buyers and start effective sales using LinkedIn to market your business.
  
 **Linked Social Toolkit** is designed for peoples who are looking to attract prospects. It is an ultimate marketing tool that work smarter and faster to reduces your LinkedIn marketing time and helps you to find leads, generate new business and reach more people. It automates LinkedIn and start effective B2B and B2C sales.
+
 **Linked Social Toolkit** can be used by startups, entrepreneurs, small businesses and online marketers who are looking to get more brand visibility, attract and engage more prospects, instill trust and credibility, increase client base, sales and generate higher profits. 
 
 **Linked Social Toolkit** is a browser extension works in all major browsers like Google Chrome, Mozilla Firefox, Opera and Microsoft Edge. It allows you to export or import your settings and configuration for prospect in few clicks. With Cloud based synchronization feature you can import and export your settings to Google Drive, Dropbox and OneDrive.
