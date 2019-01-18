@@ -1,0 +1,70 @@
+LinkedIn’s messaging platform has taken the business world by storm in recent years. It’s a proven site for lead generation and almost all of the sales teams of B2B companies rely on messaging to generate leads. It’s the perfect platform for sharing content, creating connections, and closing business deals. So let’s get started on how you can start messaging others using **Linked Social Toolkit**.
+
+There are two ways to send a mass messages to all your connections
+1. Message all connections
+2. Message targeted connections
+
+## Message all connections
+You can send your message to all your contacts at once. Click on “Message all connections” button from  **Linked Social Toolkit** left menu then you will see dialog as below
+
+![How to mass message all your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-mass-message-all-your-connections.png)
+
+Follow these steps for sending customized message to your contacts
+1. Create or select a campaign
+2. Write your message
+3. Click on "**Send**" button
+
+## Feature explanation
+### Create a campaign
+First, you need to create a campaign for sending messages. Click on plus icon to create a new campaign or select old campaign from drop down.
+![create a Campaign for sending messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/create-a-campaign.png)
+
+### Manage campaign
+Click on **Manage campaign** option to **edit** or **delete** campaigns.
+![Manage campaign](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/manage-campaign.png)
+
+### Adding already contacted user to some campaign
+If you have sent any messages to your connections using any other tool or script or extension etc. or even manually and you don’t want to send message again to your connection, then this feature is used.
+
+Another use-case for using this feature is, if you have removed Tampermonkey extension or uninstalled your browser or installed new Operation System (Windows, Mac or Linux), then Script database also gets removed.  When you re-install the script and start sending messages to your connections, then script would send duplicate messages because Script doesn’t have data about old campaigns. So, use feature to avoid sending duplicate messages to your connections. You need to use the feature before sending messages.
+Click ![addCUC](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/addCUC.png) icon then confirm the dialog and wait until script finishes the process.
+
+![Adding already contacted user to some campaign](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Adding-already-contacted-user-to-some-campaign.png)
+
+### Message
+Enter your message in message text box. You can use **@name** for full name, **@firstName** for first name and **@lastName** for last name of user. All these short-codes are case-sensitive.
+
+![Message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Message.png)
+
+### Exclude message to 
+If you want to avoid or exclude or stop your specific connections from sending message, then type connection name in input field then press **Enter key** or click search button. Connections list matching your criteria will be shown, just select the right connection. **Tab key** could also be used to navigate through search results. Use Enter key or left click for selecting your connection.
+ 
+![Exclude-message-to](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Exclude-message-to.png)
+
+### Exclude connections from campaign
+If you don’t want to send message to your connections whom you have already sent messages using another campaign, then check that campaign name to avoid or exclude or stop connections from sending message.
+
+![Exclude-connections-from-campaign](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Exclude-connections-from-campaign.png)
+
+### Total message
+This is the total number of messages you want to send.
+### Delay
+This is the delay between each message in seconds. 
+### Start position
+If you are sending messages using “**message all connections**”, then Start position 0 would be the most recently added connection in your [connection list](https://www.linkedin.com/mynetwork/invite-connect/connections/).
+
+![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-MyNetwork.png)
+
+If you are sending message using “**Message targeted user**” option, then Start position 0 would be the first record in your [search result](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
+
+![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Search.png)
+
+
+
+
+
+
+
+
+
+
