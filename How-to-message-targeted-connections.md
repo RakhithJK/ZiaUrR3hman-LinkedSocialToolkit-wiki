@@ -1,7 +1,7 @@
 LinkedIn’s messaging platform has taken the business world by storm in recent years. It’s a proven site for lead generation and almost all of the sales teams of B2B companies rely on messaging to generate leads. It’s the perfect platform for sharing content, creating connections, and closing business deals. So let’s get started on how you can start messaging others using **Linked Social Toolkit**.
 
 There are two ways to send a mass messages to all your connections
-1. Message all connections
+1. [Message all connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections)
 2. Message targeted connections
 
 ## Message targeted connections
@@ -155,11 +155,7 @@ This is the total number connections you want to send messages.
 ### Delay
 This is the delay between each message in seconds. 
 ### Start position
-If you are sending messages using “**message all connections**”, then Start position 0 would be the most recently added connection in your [connection list](https://www.linkedin.com/mynetwork/invite-connect/connections/).
-
-![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-MyNetwork.png)
-
-If you are sending message using “**Message targeted user**” option, then Start position 0 would be the first record in your [search result](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
+Start position 0 would be the first record in your [search result](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
 
 ![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Search.png)
 
