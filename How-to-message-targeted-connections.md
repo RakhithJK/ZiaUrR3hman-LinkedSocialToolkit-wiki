@@ -122,14 +122,13 @@ This search filter is used to search for common or mutual connections. Click on 
 
 ### Location search filter
 When searching for people or jobs, you can limit your search to single or multiple locations.
-**Entering locations in your search filed**
-
+#### Entering locations in your search filed
 Enter your search term in the Search field at the top of script interface.
 For example: product manager California
 
 ![Entering locations in your search filed](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Search.png)
 
-**Filtering searches using the Locations filter**
+#### Filtering searches using the Locations filter
 You can limit your search to single or multiple locations by using the Locations. To filter your search using the Locations filter click on “**Locations**” tab, enter the location name in the location search field, press enter button or click search icon. From search results select location.  You can add multiple locations in the same search.
 
 ![Filtering searches using the Locations filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Filtering-searches-using-the-Locations-filter.png)
