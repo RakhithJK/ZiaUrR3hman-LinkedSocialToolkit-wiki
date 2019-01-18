@@ -17,10 +17,12 @@ Follow these steps for sending customized message to your contacts
 ## Feature explanation
 ### Create a campaign
 First, you need to create a campaign for sending messages. Click on plus icon to create a new campaign or select old campaign from drop down.
+
 ![create a Campaign for sending messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/create-a-campaign.png)
 
 ### Manage campaign
 Click on **Manage campaign** option to **edit** or **delete** campaigns.
+
 ![Manage campaign](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/manage-campaign.png)
 
 ### Adding already contacted user to some campaign
@@ -47,7 +49,7 @@ If you don’t want to send message to your connections whom you have already se
 ![Exclude-connections-from-campaign](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Exclude-connections-from-campaign.png)
 
 ### Total message
-This is the total number of messages you want to send.
+This is the total number connections you want to send messages.
 ### Delay
 This is the delay between each message in seconds. 
 ### Start position
@@ -59,12 +61,14 @@ If you are sending message using “**Message targeted user**” option, then St
 
 ![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Search.png)
 
+### Attachments
+You can send images and files as attachments with your message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
 
+![send-images-and-files-as-attachments-with-your-message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
 
+### Profile views
+To send profile view notification to connection whom you are sending message just check the “**Send profile view notification**” checkbox.
 
+![Send profile view notification to connection whom you are sending message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-profile-view.png)
 
-
-
-
-
-
+Click on “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from sending messages.
