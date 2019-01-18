@@ -5,7 +5,7 @@ There are two ways to send a mass messages to all your connections
 2. Message targeted connections
 
 ## Message all connections
-You can send your message to all your contacts at once. Click on “Message all connections” button from  **Linked Social Toolkit** left menu then you will see dialog as below
+You can send your message to all your contacts at once. Click on “**Message all connections**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to mass message all your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-mass-message-all-your-connections.png)
 
