@@ -16,7 +16,7 @@ Follow these steps to set up an auto responder
 
 ## Feature explanation
 ## Create auto response
-Click on plus icon to create a new auto response.
+Click on plus icon to create your own automatic responses for messages.
 
 ![Create auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Create-auto-reply-message-on-linkedin.png)
 
