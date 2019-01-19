@@ -27,7 +27,7 @@ After clicking on plus icon, you will see below window asking to complete requir
 ### Keywords
 Enter keywords for which you want to send an automatic response. You can enter multiple keywords with comma separated. Keywords are not case-sensitive.
 
-![Keywords for autoresponder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Keywords-for-autorespondern.png)
+![Keywords for autoresponder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Keywords-for-autoresponder.png)
 
 ### Reply message
 Enter your reply message for your keywords. You can use **@name** for entire name,** @firstName** for first name and **@lastName** for last name of the user. These short codes are case-sensitive. 
