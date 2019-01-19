@@ -87,7 +87,7 @@ Enter your auto reply message for your new connections. You can use **@name** fo
 ### Exclude connections from auto reply
 You can exclude new connections from auto reply based on their company name. Enter comma separated companies’ names and check “**Enable not responding employees filter**” checkbox to enable this feature. Companies names are not case-sensitive.
 
-![Exclude connections from auto reply](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Exclude-connections-from-auto-reply.png
+![Exclude connections from auto reply](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Exclude-connections-from-auto-reply.png)
 
 ### Attachments
 You can send images and files as attachments with your follow up message for new connections. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
