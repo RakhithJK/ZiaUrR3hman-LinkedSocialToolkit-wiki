@@ -2,7 +2,7 @@ LinkedIn has become the perfect place for social selling. It has the right mix o
 
 
 
-**Linked Social Toolkit** have default templates for auto responding with personalized message to birthday wishes, work anniversary, new job greetings, promotion greetings, additional position greetings and Auto respond to “Thank you messages” from your connections after endorsing their skills. You just need to enable these auto responses and update them with your message.
+**Linked Social Toolkit** have default templates for auto responding with personalized message to **birthday wishes, work anniversary, new job greetings, promotion greetings, additional position greetings** and Auto respond to “**Thank you messages**” from your connections after endorsing their skills. You just need to enable these auto responses and update them with your message.
 
 You can auto respond to messages based on some keywords in message. You can auto endorse your connections’ skills if they send you a message with specific keywords. You can send follow up messages to your connections when they accept your invitation. Click on “**Auto respond messages**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
@@ -30,7 +30,7 @@ Enter keywords for which you want to send an automatic response. You can enter m
 ![Keywords for autoresponder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Keywords-for-autoresponder.png)
 
 ### Reply message
-Enter your reply message for your keywords. You can use **@name** for entire name,** @firstName** for first name and **@lastName** for last name of the user. These short codes are case-sensitive. 
+Enter your reply message for your keywords. You can use **@name** for entire name, **@firstName** for first name and **@lastName** for last name of the user. These short codes are case-sensitive. 
 
 ![Reply message for auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Reply-message-for-auto-responder-on-linkedin.png)
 
