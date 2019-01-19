@@ -12,8 +12,8 @@ You can message your targeted connections using search and other filters. Click 
 Follow these steps for sending customized message to your contacts
 1. Create or select a campaign
 2. Write your message
-2. Find your targeted audience using search filters
-3. Click on "**Send**" button
+3. Find your targeted audience using search filters
+4. Click on "**Send**" button
 
 ## Feature explanation
 ### Create a campaign
