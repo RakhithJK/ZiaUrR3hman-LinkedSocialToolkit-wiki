@@ -55,11 +55,11 @@ You can change auto responding by dragging the response up or down. Top most res
 
 
 ## Auto endorse skills with auto responder
-Click on checkbox to enable it and click on “**Edit**” button to edit auto skills endorser settings.
+You can auto endorse your connections’ skills if someone sends you a message containing specific keywords. Click on checkbox to enable it and click on “**Edit**” button to edit keyword and other settings.
 
 ![Auto endorse skills with auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-endorse-skills-with-auto-responder-on-linkedin.png)
 
-New dialog will open when you click on “**Edit**” button. Enter your search term for endorsing skills. You can enter multiple keywords with comma separation.
+New dialog will open when you click on “**Edit**” button. Enter your search term or keyword for endorsing skills. You can enter multiple keywords with comma separation.
  
 In Total skills option enter total number of users’ skills you want to endorse. In Reply message option enter your message that will be sent when endorsing is completed. You can use **@name** for entire name, **@firstName** for first name and **@lastName** for last name of the user. These short codes are case-sensitive.
 
@@ -67,15 +67,15 @@ You can send images and files as attachments with reply message. Click on “**A
 
 ![Auto endorse skills with auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-endorse-skills-with-auto-responder.png)
 
-Enter all required information and click on “**Update**” button to save changes.
+Enter all required information and click on “**Update**” button to save changes. Click on "**Start**" button to start auto responder.
 
+# How to send follow up message to new connections in real-time?
 ## Auto respond after connecting
 You can send automatic follow up message to your new connection when they accept your invitation in real-time. Click on checkbox to enable it and click on “**Edit**” button to change reply message for connecting.
 
 ![Auto respond after connecting](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-after-connecting.png)
 
-After clicking on “**Edit**” button you will see a dialog as below. Enter all required information and click on “**Update**” button to save changes.
-
+After clicking on “**Edit**” button you will see a dialog as below.
 ![Auto respond follow up messages to new connecting](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-follow-up-messages-to-new-connecting.png)
 
 ### Reply message for new connections
@@ -92,5 +92,8 @@ You can exclude new connections from auto reply based on their company name. Ent
 You can send images and files as attachments with your follow up message for new connections. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
 
 ![Send images and files as attachments with your follow up message for new connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
+
+Enter all required information and click on “**Update**” button to save changes. Click on "**Start**" button to start auto responder.
+
 
 Click on “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from auto responding messages.
