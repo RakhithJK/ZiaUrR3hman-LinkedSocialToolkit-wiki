@@ -1,4 +1,4 @@
-LinkedIn’s messaging platform has taken the business world by storm in recent years. It’s a proven site for lead generation and almost all of the sales teams of B2B companies rely on messaging to generate leads. It’s the perfect platform for sharing content, creating connections, and closing business deals. So let’s get started on how you can start messaging others using **Linked Social Toolkit**.
+Linked’s messaging platform has taken the business world by storm in recent years. It’s a proven site for lead generation and almost all of the sales teams of B2B companies rely on messaging to generate leads. It’s the perfect platform for sharing content, creating connections, and closing business deals. So let’s get started on how you can start messaging others using **Linked Social Toolkit**.
 
 There are two ways to send a mass messages to all your connections
 1. Message all connections
