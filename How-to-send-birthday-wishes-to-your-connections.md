@@ -1,6 +1,6 @@
-Birthday wishes on LinkedIn can lead to new business. Social media works by having conversations with your connections; conversations build relationships and relationships result in ROI.
+Birthday wishes can lead to new business. Social media works by having conversations with your connections; conversations build relationships and relationships result in ROI.
 
-It is an opportunities for you to engage your network through social signals. Social signals are mentions of life events: work anniversaries, birthdays, and job changes. When you get notified of these on LinkedIn, it’s an opportunity for you to reach out and start a conversation. Each social signal is a way to reconnect with a connection and gain favorable attention. Your comments should be genuine, credible and helpful.
+It is an opportunities for you to engage your network through social signals. Social signals are mentions of life events: work anniversaries, birthdays, and job changes. When you get notified of these, it’s an opportunity for you to reach out and start a conversation. Each social signal is a way to reconnect with a connection and gain favorable attention. Your comments should be genuine, credible and helpful.
 
 You can send customized birthday wishes to your connections who have birthday. Click on “**Wish happy birthday**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
