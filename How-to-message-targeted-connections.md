@@ -10,10 +10,11 @@ You can message your targeted connections using search and other filters. Click 
 ![How to mass message targeted user on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-message-targeted-connections.png)
 
 Follow these steps for sending customized message to your contacts
-1. Create or select a campaign
-2. Write your message
-3. Find your targeted audience using search filters
-4. Click on "**Send**" button
+1. Click on “**Message targeted users**” button from  **Linked Social Toolkit** left menu
+2. Create or select a campaign
+3. Write your message
+4. Find your targeted audience using search filters
+5. Click on "**Send**" button
 
 ## Feature explanation
 ### Create a campaign
@@ -149,15 +150,16 @@ Used to filter connections by their school, university or college name. Click on
 
 ![School search filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/School-search-filter.png)
 
-
-### Total message
-This is the total number connections you want to send messages.
-### Delay
-This is the delay between each message in seconds. 
 ### Start position
 Start position 0 would be the first record in your [search result](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
 
 ![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Search.png)
+
+### Total message
+This is the total number connections you want to send messages.
+
+### Delay
+This is the delay between each message in seconds. 
 
 ### Attachments
 You can send images and files as attachments with your message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
