@@ -2,7 +2,7 @@ Skill endorsements are a great way to recognize your 1st-degree connections' ski
 
 We are firm believer in the law of reciprocity, which means that people are inclined to do something nice for you if you do something nice for them. It can be applied to endorsements as well. Endorse the skills of others, and there’s a good chance a considerable percentage of them will return the favor.
 
-Before endorsing your connections' skills, it is **recommended** to [turn on auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages-&-send-follow-up-message-to-new-connections#enabling-auto-response) that will auto respond to “Thank you messages” from your connections which you get after endorsing their skills.
+Before endorsing your connections' skills, it is **recommended** to [**turn on auto responder**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages-&-send-follow-up-message-to-new-connections#enabling-auto-response) that will auto respond to “Thank you messages” from your connections which you get after endorsing their skills.
 
 You can endorse your all connections as well as some targeted connections. Click on “**Endorse connection**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
