@@ -8,10 +8,11 @@ You can auto respond to messages based on some keywords in message. You can auto
 ![How to set up an auto responder on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-or-replay-messages-on-linkedin.png)
 
 Follow these steps to set up an auto responder
-1. Create your auto responder
-2. Update default follow up message for new connections
-3. Attach files or images if you want
-4. Click on "**Start**" button
+1. Click on “**Auto respond messages**” button from **Linked Social Toolkit** left menu
+2. Create your auto responder
+3. Update default follow up message for new connections
+4. Attach files or images if you want
+5. Click on "**Start**" button
 
 ## Feature explanation
 ## Create auto response
@@ -39,7 +40,7 @@ You can send images and files as attachments with your auto reply message. Click
 ![Send images and files as attachments with your auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
 
 ### Enabling auto response
-Check the checkbox to enable or uncheck to disable auto response.
+Check the checkbox to enable or uncheck to disable auto response. Click on "**Start**" button to start auto responder.
 
 ![Enabling auto response](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-on-linkedin.png)
 
