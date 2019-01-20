@@ -13,10 +13,10 @@ Follow these steps for endorsing your contacts
 2. Check “**Endorse all connections**” checkbox
 3. Click on "**Endorse**" button
 
-There are three ways to endorse skills of to your connections
+There are three ways to endorse skills of to your connections using **Linked Social Toolkit**
 1. [**Endorse connections' skills through auto responder**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages-&-send-follow-up-message-to-new-connections#auto-endorse-skills-with-auto-responder)
 2. [**Endorse targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections)
-3. Endorse all connections
+3. **Endorse all connections**
 
 # How to endorse all connections?
 You can endorse all your connections at once. Check “**Endorse all connections**” checkbox. When you check it, all search filter like keywords, locations, industries, companies etc are ignored. **Linked Social Toolkit** go through all your connections starting from recently added connections and endorse their skills one by one.
