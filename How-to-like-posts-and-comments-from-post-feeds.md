@@ -1,4 +1,4 @@
-You can like **top** or **recent** posts and comments from posts feeds seamlessly using **Linked Social Toolkit**. You can like posts based on some keywords in post description or in post body. Click on “**Like posts or comments**” button from **LST** left menu then you will see dialog as below
+You can like **top** or **recent** posts and comments from posts feeds seamlessly using **Linked Social Toolkit**. You can like posts based on some keywords in post description or in post body. Click on “**Like posts or comments**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to like posts, like comments or connect with new connections from post feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-like-comments-or-connect-with-new-connections-from-post-feeds-image020.png) 
 
