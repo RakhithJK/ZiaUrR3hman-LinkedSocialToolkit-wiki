@@ -15,7 +15,7 @@ Follow these steps for endorsing your contacts
 
 There are three ways to endorse skills of to your connections
 1. [**Endorse connections' skills through auto responder**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages-&-send-follow-up-message-to-new-connections#auto-endorse-skills-with-auto-responder)
-2. Endorse targeted connections through search & other filters (Max. 1000 connections allowed)
+2. **Endorse targeted connections**
 3. [**Endorse all connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-all-your-connections)
 
 # How to endorse targeted connections?
