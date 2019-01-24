@@ -6,7 +6,7 @@ You can connect with 2nd & 3rd degree connections as well as connect with users 
 
 ![how to connect or add new connections on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/how-to-connect-add-new-connections-on-linkedin-with-personal-message.png)
 
-## Follow these steps for inviting or connecting with people who liked some post
+## Follow these steps for inviting or connecting with people who liked specific article
 1. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu
 2. Select the “**Article**” option from “**Connect with users who liked**” options 
 3. Find and enter “**Article ID**”
