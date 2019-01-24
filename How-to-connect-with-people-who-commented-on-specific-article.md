@@ -19,7 +19,7 @@ You can connect with 2nd & 3rd degree connections who liked or commented on some
 4. [**Connect with people who liked specific post**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-post)
 5. [**Connect with people who commented on specific post**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-post)
 6. [**Connect with people who liked specific article**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-article)
-7. [**Connect with people who commented on specific article**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-article)
+7. **Connect with people who commented on specific article**
 8. [**Connect with people who liked specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-video)
 9. [**Connect with people who commented on specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-video)
 
