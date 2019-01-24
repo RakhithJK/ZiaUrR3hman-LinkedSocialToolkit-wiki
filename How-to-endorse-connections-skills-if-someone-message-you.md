@@ -38,6 +38,9 @@ Enter your search term or keyword for endorsing skills. You can enter multiple k
 
 ![Keywords for autoresponder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Keywords-for-autoresponder.png)
 
+## Total skills
+In Total skills option enter total number of users’ skills you want to endorse.
+
 ### Reply message
 Enter your reply message that will be sent once endorsement is done. You can use **@name** for entire name, **@firstName** for first name and **@lastName** for last name of the user. These short codes are case-sensitive. 
 
@@ -47,9 +50,6 @@ Enter your reply message that will be sent once endorsement is done. You can use
 You can send images and files as attachments with your auto reply message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
 
 ![Send images and files as attachments with your auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
-
-## Total skills
-In Total skills option enter total number of users’ skills you want to endorse.
 
 
 Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from auto endorsing connections skills.
