@@ -9,7 +9,7 @@ You can connect with 2nd & 3rd degree connections as well as connect with users 
 ## Follow these steps for inviting or connecting with people who liked some post
 1. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu
 2. Select the “**Post**” option from “**Connect with users who liked**” options 
-3. Find and enter “Post ID”
+3. Find and enter “**Post ID**”
 4. Click the "**Connect**" button
 
 ## There are three ways for Inviting or Connecting with People
