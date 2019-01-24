@@ -64,21 +64,4 @@ You can change auto responding by dragging the response up or down. Top most res
 ![Change auto responding order](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Change-auto-responding-order-on-linkedin.png)
 
 
-## Auto endorse skills with auto responder
-You can auto endorse your connections’ skills if someone sends you a message containing specific keywords. Click on checkbox to enable it and click on “**Edit**” button to edit keyword and other settings.
-
-![Auto endorse skills with auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-endorse-skills-with-auto-responder-on-linkedin.png)
-
-New dialog will open when you click on “**Edit**” button. Enter your search term or keyword for endorsing skills. You can enter multiple keywords with comma separation.
- 
-In Total skills option enter total number of users’ skills you want to endorse. In Reply message option enter your message that will be sent when endorsing is completed. You can use **@name** for entire name, **@firstName** for first name and **@lastName** for last name of the user. These short codes are case-sensitive.
-
-You can send images and files as attachments with reply message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
-
-![Auto endorse skills with auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-endorse-skills-with-auto-responder.png)
-
-Enter all required information and click on “**Update**” button to save changes. Click the "**Start**" button to start auto responder.
-
-
-
 Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from auto responding messages.
