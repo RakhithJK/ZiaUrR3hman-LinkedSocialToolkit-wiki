@@ -18,54 +18,14 @@ Click on “**Auto respond messages**” button from **Linked Social Toolkit** l
 
 ## Follow these steps to set up an auto responder
 1. Click the “**Auto respond messages**” button from **Linked Social Toolkit** left menu
-2. Create your auto responder
-3. Attach files or images if you want
+2. Enable auto response for skill endorsement
+3. Edit reply message which will be sent when endorsement is done
 4. Click the "**Start**" button
 
+# Auto endorse skills with auto responder
+You can auto endorse your connections’ skills if someone sends you a message containing specific keywords.
 ## Feature explanation
-You can auto respond to messages based on some keywords in message. 
-## Create auto response
-Click on plus icon to create your own automatic responses for messages.
-
-![Create auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Create-auto-reply-message-on-linkedin.png)
-
-After clicking on plus icon, you will see below window asking to complete required information for creating auto response. Enter all required information and click on “**Create**” button to create new auto response.
-
-![Create automatic-response on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Create-automatic-response-on-linkedin.png)
-
-### Keywords
-Enter keywords for which you want to send an automatic response. You can enter multiple keywords with comma separated. Keywords are not case-sensitive.
-
-![Keywords for autoresponder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Keywords-for-autoresponder.png)
-
-### Reply message
-Enter your reply message for your keywords. You can use **@name** for entire name, **@firstName** for first name and **@lastName** for last name of the user. These short codes are case-sensitive. 
-
-![Reply message for auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Reply-message-for-auto-responder-on-linkedin.png)
-
-### Attachments
-You can send images and files as attachments with your auto reply message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
-
-![Send images and files as attachments with your auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
-
-### Enabling auto response
-Check the checkbox to enable or uncheck to disable auto response. Click on "**Start**" button to start auto responder.
-
-![Enabling auto response](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-on-linkedin.png)
-
-### Edit or Delete auto response
-You can edit auto response by clicking on “**Edit**” button or click on “**Delete**” button to delete auto response.
-
-![Edit or Delete auto response](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Edit-or-Delete-auto-response-on-linkedin.png)
-
-### Change auto responding order
-You can change auto responding by dragging the response up or down. Top most response will have higher priority.
-
-![Change auto responding order](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Change-auto-responding-order-on-linkedin.png)
-
-
-## Auto endorse skills with auto responder
-You can auto endorse your connections’ skills if someone sends you a message containing specific keywords. Click on checkbox to enable it and click on “**Edit**” button to edit keyword and other settings.
+Click on checkbox to enable it and click on “**Edit**” button to edit keyword and other settings.
 
 ![Auto endorse skills with auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-endorse-skills-with-auto-responder-on-linkedin.png)
 
@@ -78,7 +38,6 @@ You can send images and files as attachments with reply message. Click on “**A
 ![Auto endorse skills with auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-endorse-skills-with-auto-responder.png)
 
 Enter all required information and click on “**Update**” button to save changes. Click the "**Start**" button to start auto responder.
-
 
 
 Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from auto responding messages.
