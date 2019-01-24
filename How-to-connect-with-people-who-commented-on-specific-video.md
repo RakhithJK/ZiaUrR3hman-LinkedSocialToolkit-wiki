@@ -4,9 +4,9 @@ We are always interested in growing our networks, and **Linked Social Toolkit** 
 
 You can connect with 2nd & 3rd degree connections as well as connect with users who liked or commented on some specific video. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
-![how to connect or add new connections on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/how-to-connect-add-new-connections-on-linkedin-with-personal-message.png)
+![how to connect or add new connections on commented on with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/how-to-connect-add-new-connections-on-linkedin-with-personal-message.png)
 
-## Follow these steps for inviting or connecting with people who liked specific video
+## Follow these steps for inviting or connecting with people who commented on specific video
 1. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu
 2. Select the “**Video**” option from “**Connect with users who commented on**” options 
 3. Find and enter “**Video ID**”
@@ -24,7 +24,7 @@ You can connect with 2nd & 3rd degree connections as well as connect with users 
 9. **Connect with people who commented on specific video**
 
 # Connect with people who commented on specific video
-You can connect with users who liked some specific video. When you select the “**Video**” option from “**Connect with users who commented on**” options, all search filter like keywords, locations, industries, companies etc are ignored.
+You can connect with users who commented on some specific video. When you select the “**Video**” option from “**Connect with users who commented on**” options, all search filter like keywords, locations, industries, companies etc are ignored.
 
 ![how to Connect with people who commented on some video on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-commented-on-some-video-on-linkedin.png)
 
