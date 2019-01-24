@@ -3,13 +3,14 @@ You can connect or invite 2nd or 3rd degree connections who liked posts in new f
 ![How to invite or connect with People from post feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-like-comments-or-connect-with-new-connections-from-post-feeds-image020.png) 
 
 Follow these steps for inviting or connecting with people
-1. Select your posts sorting option "**Top**" or "**Recent**"
-2. Choose the connections you want to connect, 2nd or 3rd
-3. Enter comma separated keywords in "**keywords for connecting**" text area, if you want to invite people based on some keywords
-4. Include your personal message for invitation
-5. Enter value for total number of posts to search and total invitation to send
-6. Check "**Connect to user who liked post**" and "**Connect to user based on keywords**" check-boxes
-7. Click on "**Start**" button
+1. Click on “**Like posts or comments**” button from **Linked Social Toolkit** left menu
+2. Select your posts sorting option "**Top**" or "**Recent**"
+3. Choose the connections you want to connect, 2nd or 3rd
+4. Enter comma separated keywords in "**keywords for connecting**" text area, if you want to invite people based on some keywords
+5. Include your personal message for invitation
+6. Enter value for total number of posts to search and total invitation to send
+7. Check "**Connect to user who liked post**" and "**Connect to user based on keywords**" check-boxes
+8. Click on "**Start**" button
 
 ## Feature explanation
 ### Sorting posts
