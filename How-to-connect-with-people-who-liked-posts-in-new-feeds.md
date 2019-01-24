@@ -23,7 +23,8 @@ Follow these steps for inviting or connecting with people
 8. [**Connect with people who liked specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-video)
 9. [**Connect with people who commented on specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-video)
 
-## Feature explanation
+# Connect with users who liked posts in new feeds
+## Feature explanation 
 ### Sorting posts
 You can sort posts by top post or by recent posts. Select any option from drop-down.
 
