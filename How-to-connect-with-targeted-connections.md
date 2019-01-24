@@ -1,4 +1,4 @@
-we are always interested in growing our networks, and **Linked Social Toolkit** is the ideal tool for that. On Social media you can find just about anybody that might be a prospect, partner, or maybe even just a good person to know in your industry. **Linked Social Toolkit** helps you to find leads, generate new business and reach more people.
+We are always interested in growing our networks, and **Linked Social Toolkit** is the ideal tool for that. On Social media you can find just about anybody that might be a prospect, partner, or maybe even just a good person to know in your industry. **Linked Social Toolkit** helps you to find leads, generate new business and reach more people.
 
 **Linked Social Toolkit** automates connecting to prospect through various techniques and offers you to send personalized invitations. You can add thousands of active connections within a week or more from post feeds. You can also send invitations to connections with premium membership as well.
 
