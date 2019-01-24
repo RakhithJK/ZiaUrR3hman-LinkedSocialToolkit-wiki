@@ -8,12 +8,12 @@ You can endorse your all connections as well as some targeted connections. Click
 
 ![How to Endorse all or targeted connections on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Endorsing-targeted-or-all-my-connections-on-linkedin.png)
 
-Follow these steps for endorsing your contacts
+## Follow these steps for endorsing your contacts
 1. Click on “**Endorse connection**” button from **Linked Social Toolkit** left menu
 2. Apply search filters to endorse targeted connections profile and uncheck “**Endorse all connections**” checkbox
 3. Click on "**Endorse**" button
 
-There are three ways to endorse skills of to your connections using **Linked Social Toolkit**
+## There are 3 ways to endorse skills of to your connections using Linked Social Toolkit
 1. [**Endorse connections' skills through auto responder**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages-&-send-follow-up-message-to-new-connections#auto-endorse-skills-with-auto-responder)
 2. **Endorse targeted connections**
 3. [**Endorse all connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-all-your-connections)
