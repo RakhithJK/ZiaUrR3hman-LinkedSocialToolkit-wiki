@@ -35,7 +35,7 @@ Copy video link by opening video new tab or copy from post options.
 
 Open a new tab type “**view-source:**” in address bar then paste copied link. So your full link would be something like this
 
-> **view-source:https://www.linkedin.com/feed/update/urn:li:activity:XXXXXXXXXXXXXXXXXXXXXXX/**
+> **view-source:https://www.linkedin.com/feed/update/urn:li:activity:XXXXXXXXXXXXXXXXXXX/**
 
 Press enter to load source code of the video. On source page press Ctrl + F to find Video ID, then search for “**urn:li:ugcPost:**” you will get the Video ID, copy it.
 
