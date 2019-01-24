@@ -6,12 +6,12 @@ Social media has become the perfect place for social selling. It has the right m
 You can auto respond to messages based on some keywords in message. You can auto endorse your connections’ skills if they send you a message with specific keywords.
 
 ## There are 7 different ways to send a messages to your connections
-1. **Message all connections**
+1. [**Message all connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections)
 2. [**Message targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-message-targeted-connections)
 3. [**Send birthday wishes to your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-birthday-wishes-to-your-connections)
 4. [**Send new job wishes to your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-new-job-wishes-to-your-connections)
 5. [**Send work anniversary wishes to your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-work-anniversary-wishes-to-your-connections)
-6. **Auto respond to messages**
+6. [**Auto respond to messages**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages)
 7. **Send follow up messages to new connections**
 
 Click on “**Auto respond messages**” button from **Linked Social Toolkit** left menu then you will see dialog as below
@@ -24,10 +24,9 @@ Click on “**Auto respond messages**” button from **Linked Social Toolkit** l
 3. Attach files or images if you want
 4. Click on "**Start**" button
 
-
-## Feature explanation
-You can send follow up messages to your connections when they accept your invitation.
 # How to send follow up message to new connections in real-time?
+You can send follow up messages to your connections when they accept your invitation.
+## Feature explanation
 ## Auto respond after connecting
 You can send automatic follow up message to your new connection when they accept your invitation in real-time. Click on checkbox to enable it and click on “**Edit**” button to change reply message for connecting.
 
