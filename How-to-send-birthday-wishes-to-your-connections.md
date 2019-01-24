@@ -17,7 +17,7 @@ You can send customized birthday wishes to your connections who have birthday. C
 
 ![How to send birthday wishes to your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-send-birthday-wishes-to-your-connections.png)
 
-Follow these steps for sending customized birthday wishes
+## Follow these steps for sending customized birthday wishes
 1. Click the “**Wish happy birthday**” button from **Linked Social Toolkit** left menu
 2. Enter your greeting message
 3. Click the "**Send**" button
@@ -40,4 +40,4 @@ To send profile view notification to connection whom you are sending birthday gr
 
 ![Send profile view notification to connection whom you are sending birthday greeting message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-profile-view.png)
 
-Click on “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from sending birthday greetings.
+Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from sending birthday greetings.
