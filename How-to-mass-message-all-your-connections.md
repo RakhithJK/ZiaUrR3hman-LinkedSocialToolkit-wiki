@@ -10,9 +10,10 @@ You can send your message to all your contacts at once. Click on “**Message al
 ![How to mass message all your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-mass-message-all-your-connections.png)
 
 Follow these steps for sending customized message to your contacts
-1. Create or select a campaign
-2. Write your message
-3. Click on "**Send**" button
+1. Click on “**Message all connections**” button from  **Linked Social Toolkit** left menu
+2. Create or select a campaign
+3. Write your message
+4. Click on "**Send**" button
 
 ## Feature explanation
 ### Create a campaign
