@@ -13,6 +13,11 @@ Social media has become the perfect place for social selling. It has the right m
 7. [**Send follow up messages to new connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-follow-up-message-to-new-connections)
 8. **Send message after endorsing connections skills**
 
+## There are 3 ways to endorse skills of to your connections using Linked Social Toolkit
+1. **Endorse connections' skills through auto responder**
+2. [**Endorse targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections)
+3. [**Endorse all connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-all-your-connections)
+
 # Auto endorse skills with auto responder
 You can auto endorse your connections’ skills if someone sends you a message containing specific keywords. Click the “**Auto respond messages**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
