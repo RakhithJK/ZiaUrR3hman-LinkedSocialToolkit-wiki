@@ -47,13 +47,13 @@ If you unchecked “**Like posts based on keywords**” option, then script will
 Enter comma separated keywords in text area and check “**Connect to user based on keywords**” checkbox If you want to connect with users based on some keywords in their headline or title. 
 
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image029.png)
-
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image031.png) 
  
 If you unchecked “**Connect to user based on keywords**” option, then script will send invitations to everyone without searching for keywords in their headline or title. 
 
 ### Include a personal message
 You can enter your personalized invitation message. Use **@name**, **@firstName** or **@lastName** in the text area below, to act as a placeholder for the entire name, first name or last name of the user. Keep it blank if you don’t want to add invitation message. These short codes are case-sensitive.
+
 ![Include-a-personal-message-for-connecting](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Include-a-personal-message-for-connecting-image033.png)
 
 ### Total invitation
