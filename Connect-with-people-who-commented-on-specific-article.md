@@ -24,7 +24,7 @@ You can connect with 2nd & 3rd degree connections who liked or commented on some
 ## Connect with people who commented on specific article
 You can connect with users who commented on some specific article. When you select the “**Article**” option from “**Connect with users who commented on**” options, all search filter like keywords, locations, industries, companies etc are ignored.
 
-![how to Connect with people who commented on some article on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-liked-on-some-article-on-linkedin.png)
+![how to Connect with people who commented on some article on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-commented-on-some-article-on-linkedin.png)
 
 ## How to get Article ID?
 Copy article link by opening article new tab or copy from post options.
@@ -41,7 +41,7 @@ Press enter to load source code of the article. On source page press Ctrl + F to
 
 Select the “**Article**” option from “**Connect with users who commented on**” options, paste “**Article ID**” and click the “**Connect**” button to start connecting with users who commented on that article.
 
-![how to Connect with people who commented on some Article on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-liked-on-some-article-on-linkedin.png)
+![how to Connect with people who commented on some Article on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-commented-on-some-article-on-linkedin.png)
 
 ### Include a personal message
 You can enter your personalized invitation message. Use **@name**, **@firstName** or **@lastName** in the text area below, to act as a placeholder for the entire name, first name or last name of the user. Keep it blank if you don’t want to add invitation message. These short codes are case-sensitive.
