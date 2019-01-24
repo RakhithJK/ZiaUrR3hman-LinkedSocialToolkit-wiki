@@ -14,15 +14,15 @@ You can auto respond to messages based on some keywords in message. You can auto
 6. [**Auto respond to messages**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages)
 7. **Send follow up messages to new connections**
 
-Click on “**Auto respond messages**” button from **Linked Social Toolkit** left menu then you will see dialog as below
+Click the “**Auto respond messages**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to set up an auto responder on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-or-replay-messages-on-linkedin.png)
 
 ## Follow these steps to send follow up message
-1. Click on “**Auto respond messages**” button from **Linked Social Toolkit** left menu
+1. Click the “**Auto respond messages**” button from **Linked Social Toolkit** left menu
 2. Enable default follow up message for new connections
 3. Attach files or images if you want
-4. Click on "**Start**" button
+4. Click the "**Start**" button
 
 # How to send follow up message to new connections in real-time?
 You can send follow up messages to your connections when they accept your invitation.
