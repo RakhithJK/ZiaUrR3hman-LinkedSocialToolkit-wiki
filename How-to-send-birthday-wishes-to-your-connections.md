@@ -7,8 +7,9 @@ You can send customized birthday wishes to your connections who have birthday. C
 ![How to send birthday wishes to your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-send-birthday-wishes-to-your-connections.png)
 
 Follow these steps for sending customized birthday wishes
-1. Enter your greeting message
-2. Click on "**Send**" button
+1. Click on “**Wish happy birthday**” button from **Linked Social Toolkit** left menu
+2. Enter your greeting message
+3. Click on "**Send**" button
 
 ## Feature explanation
 ### Birthday greetings
