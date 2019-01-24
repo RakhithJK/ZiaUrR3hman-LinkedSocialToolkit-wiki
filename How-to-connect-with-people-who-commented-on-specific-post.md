@@ -1,4 +1,4 @@
-we are always interested in growing our networks, and **Linked Social Toolkit** is the ideal tool for that. On Social media you can find just about anybody that might be a prospect, partner, or maybe even just a good person to know in your industry. **Linked Social Toolkit** helps you to find leads, generate new business and reach more people.
+We are always interested in growing our networks, and **Linked Social Toolkit** is the ideal tool for that. On Social media you can find just about anybody that might be a prospect, partner, or maybe even just a good person to know in your industry. **Linked Social Toolkit** helps you to find leads, generate new business and reach more people.
 
 **Linked Social Toolkit** automates connecting to prospect through various techniques and offers you to send personalized invitations. You can add thousands of active connections within a week or more from post feeds.
 
@@ -6,7 +6,7 @@ You can connect with 2nd & 3rd degree connections who commented on specific some
 
 ![how to connect or add new connections on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/how-to-connect-add-new-connections-on-linkedin-with-personal-message.png)
 
-## Follow these steps for inviting or connecting with people who liked some post
+## Follow these steps for inviting or connecting with people who commented on specific post
 1. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu
 2. Select the “**Post**” option from “**Connect with users who commented on**” options 
 3. Find and enter “**Post ID**”
@@ -19,7 +19,7 @@ You can connect with 2nd & 3rd degree connections who commented on specific some
 4. **Connect with people who liked specific post**
 5. **Connect with people who commented on specific post**
 
-# Connect with people who commented on specific post
+## Connect with people who commented on specific post
 You can connect with users who commented on some specific post. When you select the “**Post**” option from “**Connect with users who commented on**” options, all search filter like keywords, locations, industries, companies etc are ignored.
 
 ![how to Connect with people who commented on some post on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-commented-on-some-posts-on-linkedin.png)
