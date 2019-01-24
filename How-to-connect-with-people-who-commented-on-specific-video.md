@@ -21,7 +21,7 @@ You can connect with 2nd & 3rd degree connections as well as connect with users 
 6. [**Connect with people who liked specific article**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-article)
 7. [**Connect with people who commented on specific article**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-article)
 8. [**Connect with people who liked specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-video)
-9. [**Connect with people who commented on specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-video)
+9. **Connect with people who commented on specific video**
 
 # Connect with people who commented on specific video
 You can connect with users who commented on some specific video. When you select the “**Video**” option from “**Connect with users who commented on**” options, all search filter like keywords, locations, industries, companies etc are ignored.
