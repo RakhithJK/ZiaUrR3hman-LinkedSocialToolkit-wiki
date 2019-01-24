@@ -29,7 +29,7 @@ You can connect with users who liked some specific video. When you select the �
 ![how to Connect with people who liked some video on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-liked-on-some-video-on-linkedin.png)
 
 ## How to get Video ID?
-Copy video link by opening video new tab or copy from post options.
+Copy video link by opening video new tab or copy link from post options.
 
 ![How to get video ID on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-get-Video-ID.png)
 
@@ -37,7 +37,7 @@ Open a new tab type “**view-source:**” in address bar then paste copied link
 
 > **view-source:https://www.linkedin.com/feed/update/urn:li:activity:XXXXXXXXXXXXXXXXXXX/**
 
-Press enter to load source code of the video. On source page press Ctrl + F to find Video ID, then search for “**urn:li:ugcPost:**” you will get the Video ID, copy it.
+Press enter to load source code of the video. On source page press **Ctrl + F** to find Video ID, then search for “**urn:li:ugcPost:**” you will get the Video ID, copy it.
 
 ![How to view source code on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/view-source-video.png)
 
