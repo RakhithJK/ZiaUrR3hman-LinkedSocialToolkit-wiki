@@ -29,15 +29,27 @@ Click on checkbox to enable it and click on “**Edit**” button to edit keywor
 
 ![Auto endorse skills with auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-endorse-skills-with-auto-responder-on-linkedin.png)
 
-New dialog will open when you click on “**Edit**” button. Enter your search term or keyword for endorsing skills. You can enter multiple keywords with comma separation.
+New dialog will open when you click on “**Edit**” button. 
  
-In Total skills option enter total number of users’ skills you want to endorse. In Reply message option enter your message that will be sent when endorsing is completed. You can use **@name** for entire name, **@firstName** for first name and **@lastName** for last name of the user. These short codes are case-sensitive.
-
-You can send images and files as attachments with reply message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
-
 ![Auto endorse skills with auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-endorse-skills-with-auto-responder.png)
 
-Enter all required information and click on “**Update**” button to save changes. Click the "**Start**" button to start auto responder.
+### Keywords
+Enter your search term or keyword for endorsing skills. You can enter multiple keywords with comma separation.
+
+![Keywords for autoresponder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Keywords-for-autoresponder.png)
+
+### Reply message
+Enter your reply message that will be sent once endorsement is done. You can use **@name** for entire name, **@firstName** for first name and **@lastName** for last name of the user. These short codes are case-sensitive. 
+
+![Reply message for auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Reply-message-for-auto-responder-on-linkedin.png)
+
+### Attachments
+You can send images and files as attachments with your auto reply message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
+
+![Send images and files as attachments with your auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
+
+## Total skills
+In Total skills option enter total number of users’ skills you want to endorse.
 
 
-Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from auto responding messages.
+Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from auto endorsing connections skills.
