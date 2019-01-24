@@ -45,7 +45,9 @@ If you unchecked “**Like posts based on keywords**” option, then script will
 
 ### Keywords for connecting
 Enter comma separated keywords in text area and check “**Connect to user based on keywords**” checkbox If you want to connect with users based on some keywords in their headline or title. 
+
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image029.png)
+
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image031.png) 
  
 If you unchecked “**Connect to user based on keywords**” option, then script will send invitations to everyone without searching for keywords in their headline or title. 
