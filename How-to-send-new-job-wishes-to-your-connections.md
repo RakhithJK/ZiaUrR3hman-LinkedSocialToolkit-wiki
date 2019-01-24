@@ -17,7 +17,7 @@ You can send **new job**, **additional position** or **promotion** greetings to 
 
 ![How to send new job, additional position and promotion wishes to your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-send-new-job-additional-position-and-promotion-wishes-to-your-connections.png)
 
-Follow these steps for sending customized work anniversary wishes
+## Follow these steps for sending customized work anniversary wishes
 1. Click the “**Congrats on new job**” button from **Linked Social Toolkit** left menu
 2. Enter your greeting message including **@firstName** and **@newPosition** shot-codes
 3. Click the "**Send**" button
