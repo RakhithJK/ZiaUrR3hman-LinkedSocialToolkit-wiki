@@ -10,7 +10,7 @@ Linked’s messaging platform has taken the business world by storm in recent ye
 7. [**Send follow up messages to new connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-follow-up-message-to-new-connections)
 8. [**Send message after endorsing connections skills**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-connections-skills-if-someone-message-you)
 
-## Sending message to all connections
+# Sending message to all connections
 You can send your message to all your contacts at once. Click the “**Message all connections**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to mass message all your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-mass-message-all-your-connections.png)
