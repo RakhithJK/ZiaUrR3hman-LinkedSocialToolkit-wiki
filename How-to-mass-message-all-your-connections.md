@@ -1,6 +1,6 @@
 Linked’s messaging platform has taken the business world by storm in recent years. It’s a proven site for lead generation and almost all of the sales teams of B2B companies rely on messaging to generate leads. It’s the perfect platform for sharing content, creating connections, and closing business deals. So let’s get started on how you can start messaging others using **Linked Social Toolkit**.
 
-## There are 8 different ways to send a messages to your connections
+## There are 8 different ways to send a messages to your connections using Linked Social Toolkit
 1. **Message all connections**
 2. [**Message targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-message-targeted-connections)
 3. [**Send birthday wishes to your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-birthday-wishes-to-your-connections)
