@@ -151,6 +151,6 @@ You can connect with users who have subscribe for premium membership. Check “*
 ### Profile views
 To send profile view notification to connection, whom you are sending connection invitation. Check the “**Send profile view notification**” checkbox.
 
-![Send profile view notification to connection while endorsing skills](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-profile-view.png)
+![Send profile view notification to connection while sending connection invitation](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-profile-view.png)
 
 Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from connecting.
