@@ -13,7 +13,8 @@ Social media has become the perfect place for social selling. It has the right m
 7. [**Send follow up messages to new connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-follow-up-message-to-new-connections)
 8. **Send message after endorsing connections skills**
 
-Click on “**Auto respond messages**” button from **Linked Social Toolkit** left menu then you will see dialog as below
+# Auto endorse skills with auto responder
+You can auto endorse your connections’ skills if someone sends you a message containing specific keywords. Click the “**Auto respond messages**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to set up an auto responder on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-or-replay-messages-on-linkedin.png)
 
@@ -23,9 +24,9 @@ Click on “**Auto respond messages**” button from **Linked Social Toolkit** l
 3. Edit reply message which will be sent when endorsement is done
 4. Click the "**Start**" button
 
-# Auto endorse skills with auto responder
-You can auto endorse your connections’ skills if someone sends you a message containing specific keywords.
+
 ## Feature explanation
+## Edit
 Click on checkbox to enable it and click on “**Edit**” button to edit keyword and other settings.
 
 ![Auto endorse skills with auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-endorse-skills-with-auto-responder-on-linkedin.png)
