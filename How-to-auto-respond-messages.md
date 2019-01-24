@@ -3,7 +3,7 @@ Social media has become the perfect place for social selling. It has the right m
 
 **Linked Social Toolkit** have default templates for auto responding with personalized message to **birthday wishes, work anniversary, new job greetings, promotion greetings, additional position greetings** and Auto respond to “**Thank you messages**” from your connections after endorsing their skills. You just need to enable these auto responses and update them with your message. 
 
-## There are 7 different ways to send a messages to your connections
+## There are 8 different ways to send a messages to your connections using Linked Social Toolkit
 1. [**Message all connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections)
 2. [**Message targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-message-targeted-connections)
 3. [**Send birthday wishes to your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-birthday-wishes-to-your-connections)
@@ -11,7 +11,9 @@ Social media has become the perfect place for social selling. It has the right m
 5. [**Send work anniversary wishes to your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-work-anniversary-wishes-to-your-connections)
 6. **Auto respond to messages**
 7. [**Send follow up messages to new connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-follow-up-message-to-new-connections)
+8. [**Send message after endorsing connections skills**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-connections-skills-if-someone-message-you)
 
+# Auto respond to messages
 Click on “**Auto respond messages**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to set up an auto responder on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-or-replay-messages-on-linkedin.png)
