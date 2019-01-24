@@ -127,6 +127,7 @@ Used to filter connections by their school, university or college name. Click on
 
 ### Include a personal message
 You can enter your personalized invitation message. Use **@name**, **@firstName** or **@lastName** in the text area below, to act as a placeholder for the entire name, first name or last name of the user. Keep it blank if you don’t want to add invitation message. These short codes are case-sensitive.
+
 ![Include-a-personal-message-for-connecting](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Include-a-personal-message-for-connecting-image033.png)
 
 ### Start position
