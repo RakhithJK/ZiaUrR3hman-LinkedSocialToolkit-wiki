@@ -12,6 +12,18 @@ Follow these steps for inviting or connecting with people
 7. Check "**Connect to user who commented**" and "**Connect to user based on keywords**" check-boxes
 8. Click on "**Start**" button
 
+## There are 9 different ways for Inviting or Connecting using Linked Social Toolkit
+1. [**Connect with users who liked posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds)
+2. [**Connect with users who commented on posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-posts)
+3. [**Connect with targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections)
+4. [**Connect with people who liked specific post**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-post)
+5. [**Connect with people who commented on specific post**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-post)
+6. [**Connect with people who liked specific article**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-article)
+7. [**Connect with people who commented on specific article**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-article)
+8. [**Connect with people who liked specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-video)
+9. [**Connect with people who commented on specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-video)
+
+# Connect with users who commented on posts in new feeds
 ## Feature explanation
 ### Sorting posts
 You can sort posts by top post or by recent posts. Select any option from drop-down.
@@ -32,7 +44,8 @@ Enter comma separated keywords in posts keywords text area and check “**Like p
 If you unchecked “**Like posts based on keywords**” option, then script will not search for keywords in posts otherwise it will send invitation to people if any keywords found.
 
 ### Keywords for connecting
-Enter comma separated keywords in text area and check “**Connect to user based on keywords**” checkbox If you want to connect with users based on some keywords in their headline or title. 
+Enter comma separated keywords in text area and check “**Connect to user based on keywords**” checkbox If you want to connect with users based on some keywords in their headline or title.
+ 
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image029.png)
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image031.png) 
  
