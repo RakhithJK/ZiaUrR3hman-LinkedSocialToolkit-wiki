@@ -24,7 +24,7 @@ You can connect with 2nd & 3rd degree connections who liked or commented on some
 ## Connect with people who commented on specific article
 You can connect with users who commented on some specific article. When you select the “**Article**” option from “**Connect with users who commented on**” options, all search filter like keywords, locations, industries, companies etc are ignored.
 
-![how to Connect with people who commented on some article on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-commented-on-some-article-on-linkedin.png)
+![how to Connect with people who commented on some article on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-liked-on-some-article-on-linkedin.png)
 
 ## How to get Article ID?
 Copy article link by opening article new tab or copy from post options.
