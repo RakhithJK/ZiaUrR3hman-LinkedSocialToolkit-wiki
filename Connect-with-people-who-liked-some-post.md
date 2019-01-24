@@ -15,7 +15,7 @@ You can connect with 2nd & 3rd degree connections as well as connect with users 
 ## There are three ways for Inviting or Connecting with People
 1. [**Connect with users who liked posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds)
 2. [**Connect with users who commented posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-posts)
-3. **Connect with targeted connections**
+3. [**Connect with targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections)
 4. **Connect with people who liked some post**
 
 # Connect with people who liked some post
