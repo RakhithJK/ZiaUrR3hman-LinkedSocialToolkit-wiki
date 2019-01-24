@@ -1,19 +1,19 @@
 Linked’s messaging platform has taken the business world by storm in recent years. It’s a proven site for lead generation and almost all of the sales teams of B2B companies rely on messaging to generate leads. It’s the perfect platform for sharing content, creating connections, and closing business deals. So let’s get started on how you can start messaging others using **Linked Social Toolkit**.
 
-There are two ways to send a mass messages to all your connections
-1. Message all connections
-2. [Message targeted connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-message-targeted-connections)
+## There are 2 ways to send a mass messages to your connections
+1. **Message all connections**
+2. [**Message targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-message-targeted-connections)
 
 ## Message all connections
-You can send your message to all your contacts at once. Click on “**Message all connections**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
+You can send your message to all your contacts at once. Click the “**Message all connections**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to mass message all your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-mass-message-all-your-connections.png)
 
-Follow these steps for sending customized message to your contacts
-1. Click on “**Message all connections**” button from  **Linked Social Toolkit** left menu
+## Follow these steps for sending customized message to your contacts
+1. Click the “**Message all connections**” button from  **Linked Social Toolkit** left menu
 2. Create or select a campaign
 3. Write your message
-4. Click on "**Send**" button
+4. Click the "**Send**" button
 
 ## Feature explanation
 ### Create a campaign
