@@ -28,11 +28,12 @@ Click the “**Auto respond messages**” button from **Linked Social Toolkit** 
 You can send follow up messages to your connections when they accept your invitation.
 ## Feature explanation
 ## Auto respond after connecting
-You can send automatic follow up message to your new connection when they accept your invitation in real-time. Click on checkbox to enable it and click on “**Edit**” button to change reply message for connecting.
+You can send automatic follow up message to your new connection when they accept your invitation in real-time. Click the checkbox to enable it and click on “**Edit**” button to change reply message for connecting.
 
 ![Auto respond after connecting](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-after-connecting.png)
 
-After clicking on “**Edit**” button you will see a dialog as below.
+After clicking the “**Edit**” button you will see a dialog as below
+
 ![Auto respond follow up messages to new connecting](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-follow-up-messages-to-new-connecting.png)
 
 ### Reply message for new connections
@@ -46,11 +47,11 @@ You can exclude new connections from auto reply based on their company name. Ent
 ![Exclude connections from auto reply](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Exclude-connections-from-auto-reply.png)
 
 ### Attachments
-You can send images and files as attachments with your follow up message for new connections. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
+You can send images and files as attachments with your follow up message for new connections. Click the “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
 
 ![Send images and files as attachments with your follow up message for new connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
 
-Enter all required information and click on “**Update**” button to save changes. Click on "**Start**" button to start auto responder.
+Enter all required information and click on “**Update**” button to save changes. Click the "**Start**" button to start auto responder.
 
 
-Click on “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from auto responding messages.
+Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from auto responding messages.
