@@ -1,8 +1,8 @@
 We are always interested in growing our networks, and **Linked Social Toolkit** is the ideal tool for that. On Social media you can find just about anybody that might be a prospect, partner, or maybe even just a good person to know in your industry. **Linked Social Toolkit** helps you to find leads, generate new business and reach more people.
 
-**Linked Social Toolkit** automates connecting to prospect through various techniques and offers you to send personalized invitations. You can add thousands of active connections within a week or more from post feeds.
+**Linked Social Toolkit** automates connecting to prospect through various techniques and offers you to send personalized invitations. You can add thousands of active connections within a week or more from post feeds. You can also send invitations to connections with premium membership as well.
 
-You can connect with 2nd & 3rd degree connections who commented on specific some posts. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu then you will see dialog as below
+You can connect with 2nd & 3rd degree connections who liked or commented on some specific posts. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![how to connect or add new connections on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/how-to-connect-add-new-connections-on-linkedin-with-personal-message.png)
 
@@ -18,6 +18,7 @@ You can connect with 2nd & 3rd degree connections who commented on specific some
 3. [**Connect with targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections)
 4. **Connect with people who liked specific post**
 5. **Connect with people who commented on specific post**
+6. **Connect with people who liked specific article**
 
 ## Connect with people who commented on specific post
 You can connect with users who commented on some specific post. When you select the “**Post**” option from “**Connect with users who commented on**” options, all search filter like keywords, locations, industries, companies etc are ignored.
