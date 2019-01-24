@@ -11,11 +11,16 @@ You can connect with 2nd & 3rd degree connections as well as connect with users 
 2. Apply search filters to find your targeted connections
 3. Click the "**Connect**" button
 
-## There are three ways for Inviting or Connecting with People
+## There are 9 different ways for Inviting or Connecting using Linked Social Toolkit
 1. [**Connect with users who liked posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds)
-2. [**Connect with users who commented posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-posts)
-3. **Connect with targeted connections**
-4. Connect with users who liked or commented on some posts by entering post ID directly
+2. [**Connect with users who commented on posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-posts)
+3. [**Connect with targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections)
+4. [**Connect with people who liked specific post**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-post)
+5. [**Connect with people who commented on specific post**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-post)
+6. [**Connect with people who liked specific article**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-article)
+7. [**Connect with people who commented on specific article**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-article)
+8. [**Connect with people who liked specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-video)
+9. [**Connect with people who commented on specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-video)
 
 # Connect with targeted connections
 You can connect with your targeted connections using search and other filters like industries, companies, locations etc.
