@@ -5,7 +5,7 @@ Linked’s messaging platform has taken the business world by storm in recent ye
 2. **Message targeted connections**
 3. [**Send birthday wishes to your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-birthday-wishes-to-your-connections)
 4. [**Send new job wishes to your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-new-job-wishes-to-your-connections)
-5. [Send work anniversary wishes to your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-work-anniversary-wishes-to-your-connections)
+5. [**Send work anniversary wishes to your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-work-anniversary-wishes-to-your-connections)
 6. **Auto respond to messages**
 7. **Send follow up messages to new connections**
 
