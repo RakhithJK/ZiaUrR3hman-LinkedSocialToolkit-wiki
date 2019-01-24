@@ -36,7 +36,7 @@ Open a new tab type “**view-source:**” in address bar then paste copied link
 
 Press enter to load source code of the article. On source page press Ctrl + F to find Article ID, then search for “**urn:li:linkedInArticle:**” you will get the Article ID, copy it.
 
-![How to view source code on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/view-source-post.png)
+![How to view source code on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/view-source-article.png)
 
 Select the “**Article**” option from “**Connect with users who liked**” options, paste “**Article ID**” and click the “**Connect**” button to start connecting with users who liked that article.
 
