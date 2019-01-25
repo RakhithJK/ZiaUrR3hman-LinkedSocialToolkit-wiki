@@ -1,9 +1,9 @@
 ![Linked-Social-Toolkit-Documentation](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Linked-Social-Toolkit-Documentation.png)
 
 # Overview
-LinkedIn have 500 million+ members, studies show that **80% of B2B** leads come from LinkedIn. With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and faster to search, attract and engage with prospective buyers and start effective sales using LinkedIn to market your business.
+With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and faster to search, attract and engage with prospect and start effective sales and market your business.
  
-**Linked Social Toolkit** is designed for peoples who are looking to attract prospects. It is an ultimate marketing tool that work smarter and faster to reduces your LinkedIn marketing time and helps you to find leads, generate new business and reach more people. It automates LinkedIn and start effective B2B and B2C sales.
+**Linked Social Toolkit** is designed for peoples who are looking to attract prospects. It is an ultimate marketing tool that work smarter and faster to reduces your marketing time and helps you to find leads, generate new business and reach more people. It automates Linked and start effective B2B and B2C sales. Studies show that **80% of B2B** leads come from professional social network.
 
 **Linked Social Toolkit** can be used by startups, entrepreneurs, small businesses and online marketers who are looking to get more brand visibility, attract and engage more prospects, instill trust and credibility, increase client base, sales and generate higher profits. 
 
