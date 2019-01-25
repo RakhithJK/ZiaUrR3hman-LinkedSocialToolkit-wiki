@@ -2,15 +2,6 @@ We are always interested in growing our networks, and **Linked Social Toolkit** 
 
 **Linked Social Toolkit** automates connecting to prospect through various techniques and offers you to send personalized invitations. You can add thousands of active connections within a week or more from post feeds. You can also send invitations to connections with premium membership as well.
 
-You can connect with 2nd & 3rd degree connections as well as connect with users who liked or commented on some posts. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu then you will see dialog as below
-
-![how to connect or add new connections on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/how-to-connect-add-new-connections-on-linkedin-with-personal-message.png)
-
-## Follow these steps for inviting or connecting with people
-1. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu
-2. Apply search filters to find your targeted connections
-3. Click the "**Connect**" button
-
 ## There are 9 different ways for Inviting or Connecting using Linked Social Toolkit
 1. [**Connect with users who liked posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds)
 2. [**Connect with users who commented on posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-posts)
@@ -23,7 +14,15 @@ You can connect with 2nd & 3rd degree connections as well as connect with users 
 9. [**Connect with people who commented on specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-video)
 
 # Connect with targeted connections
-You can connect with your targeted connections using search and other filters like industries, companies, locations etc.
+You can connect with your targeted connections using search and other filters like industries, companies, locations etc. You can connect with 2nd & 3rd degree connections as well as connect with users who liked or commented on some posts. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu then you will see dialog as below
+
+![how to connect or add new connections on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/how-to-connect-add-new-connections-on-linkedin-with-personal-message.png)
+
+## Follow these steps for inviting or connecting with people
+1. Click the “**Add new connections**” button from **Linked Social Toolkit** left menu
+2. Apply search filters to find your targeted connections
+3. Click the "**Connect**" button
+
 ## Feature explanation
 ### Search
 ![Search](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Search.png)
