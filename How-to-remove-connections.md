@@ -1,6 +1,6 @@
 Sometimes, for whatever reason, we might want to remove a connection that doesn’t make sense anymore. Maybe you wanted to be more closely connected to recruiters or people at your dream company. Maybe you wanted to remove connections from some specific industry, company or country.
 
-You can clean up your network by removing connections. The person will not see you viewed their profile when you remove connection using **Linked Social Toolkit**. Click the “Remove connections” button from **Linked Social Toolkit** left menu then you will see dialog as below
+You can clean up your network by removing connections. The person will not see you viewed their profile when you remove connection using **Linked Social Toolkit**. Click the “**Remove connections**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![how to clean up or un-link or delete or remove connections on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/how-to-clean-up-or-un-link-or-delete-or-remove-connections-on-LinkedIn.png)
 
