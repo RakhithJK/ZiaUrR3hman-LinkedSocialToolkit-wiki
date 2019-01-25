@@ -35,7 +35,7 @@ Copy article link by opening article new tab or copy from post options.
 
 Open a new tab type “**view-source:**” in address bar then paste copied link. So your full link would be something like this
 
-> **view-source:https://www.linkedin.com/pulse/XXXXXXXXXXXXXXXXXXXXXXXXXXX**
+> **view-source:https://www.linkedin.com/pulse/XXXXX-XXXXX-XXX-XXXX-XXXXXX**
 
 Press enter to load source code of the article. On source page press Ctrl + F to find Article ID, then search for “**urn:li:linkedInArticle:**” you will get the Article ID, copy it.
 
