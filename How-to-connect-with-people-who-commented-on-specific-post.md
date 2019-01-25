@@ -35,7 +35,7 @@ To get Post ID click on post option icon on any text post or post with image fro
 
 Open a new tab type “**view-source:**” in address bar then paste copied link. So your full link would be something like this
 
-> **view-source:https://www.linkedin.com/feed/update/urn:li:activity:6485051737756495872/**
+> **view-source:https://www.linkedin.com/feed/update/urn:li:activity:XXXXXXXXXXXX/**
 
 Press enter to load source code of the post. On source page press **Ctrl + F** to find Post ID, then search for “**urn:li:activity:**” you will get the Post ID, copy it.
 
