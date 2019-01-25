@@ -113,7 +113,7 @@ Used to filter connections by their school, university or college name. Click on
 
 
 ### Start position
-Start position is the initial value where script start removing connection from search results then increment start position when script finishes the search results returned by initial request. Start position 0 would be the first record in your [search result](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
+Start position is the initial value where script start removing connection from search results then increment start position when script finishes the search results returned by initial request. Start position 0 would be the first record in your [**search result**](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
 
 ![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Search.png)
 
