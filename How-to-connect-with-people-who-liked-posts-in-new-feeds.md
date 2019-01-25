@@ -1,21 +1,6 @@
 We are always interested in growing our networks, and **Linked Social Toolkit** is the ideal tool for that. On Social media you can find just about anybody that might be a prospect, partner, or maybe even just a good person to know in your industry. **Linked Social Toolkit** helps you to find leads, generate new business and reach more people.
 
 **Linked Social Toolkit** automates connecting to prospect through various techniques and offers you to send personalized invitations. You can add thousands of active connections within a week or more from post feeds. You can also send invitations to connections with premium membership as well.
-
-You can connect with 2nd & 3rd degree connections as well as connect with users who liked or commented on some posts. Click on “**Like posts or comments**” button from **Linked Social Toolkit** left menu then you will see dialog as below
-
-![How to invite or connect with People from post feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-like-comments-or-connect-with-new-connections-from-post-feeds-image020.png) 
-
-Follow these steps for inviting or connecting with people
-1. Click on “**Like posts or comments**” button from **Linked Social Toolkit** left menu
-2. Select your posts sorting option "**Top**" or "**Recent**"
-3. Choose the connections you want to connect, 2nd or 3rd
-4. Enter comma separated keywords in "**keywords for connecting**" text area, if you want to invite people based on some keywords
-5. Include your personal message for invitation
-6. Enter value for total number of posts to search and total invitation to send
-7. Check "**Connect to user who liked post**" and "**Connect to user based on keywords**" check-boxes
-8. Click on "**Start**" button
-
 ## There are 9 different ways for Inviting or Connecting using Linked Social Toolkit
 1. **Connect with users who liked posts in new feeds**
 2. [**Connect with users who commented on posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-posts)
@@ -28,7 +13,20 @@ Follow these steps for inviting or connecting with people
 9. [**Connect with people who commented on specific video**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-specific-video)
 
 # Connect with users who liked posts in new feeds
-You can connect or invite 2nd or 3rd degree connections who liked posts in new feeds. You can invite or connect with People based on some keywords in their profile title or headline. 
+You can connect or invite 2nd or 3rd degree connections who liked posts in new feeds. You can invite or connect with People based on some keywords in their profile title or headline. You can connect with users who liked or commented on some posts. Click on “**Like posts or comments**” button from **Linked Social Toolkit** left menu then you will see dialog as below
+
+![How to invite or connect with People from post feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-like-posts-like-comments-or-connect-with-new-connections-from-post-feeds-image020.png) 
+
+## Follow these steps for inviting or connecting with people
+1. Click the “**Like posts or comments**” button from **Linked Social Toolkit** left menu
+2. Select your posts sorting option "**Top**" or "**Recent**"
+3. Choose the connections you want to connect, 2nd or 3rd
+4. Enter comma separated keywords in "**keywords for connecting**" text area, if you want to invite people based on some keywords
+5. Include your personal message for invitation
+6. Enter value for total number of posts to search and total invitation to send
+7. Check "**Connect to user who liked post**" and "**Connect to user based on keywords**" check-boxes
+8. Click the "**Start**" button
+
 ## Feature explanation 
 ### Sorting posts
 You can sort posts by top post or by recent posts. Select any option from drop-down.
@@ -87,4 +85,4 @@ You can connect to users who liked or commented on posts without liking that pos
 You can skip to next result while connecting with user, click on “**Next**” button to do so.
 ![skip to next result while connecting](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image041.png)
 
-Click on “**Stop script execution**” button to stop script from liking posts, comments or connecting.
+Click the “**Stop script execution**” button to stop script from liking posts, comments or connecting.
