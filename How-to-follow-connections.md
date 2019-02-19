@@ -4,7 +4,7 @@ You can follow 1st, 2nd and 3rd degree connections profiles seamlessly. Connecti
 
 ![How to follow 1st or 2nd or 3rd+ connections LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/how-to-follow-connections-on-LinkedIn.png)
 
-## Follow these steps for removing or disconnecting connections
+## Follow these steps for following connections
 1. Click the “**Follow new connections**” button from **Linked Social Toolkit** left menu
 2. Apply search filters to find connections you want to follow
 3. Click the "**Follow**" button
@@ -123,7 +123,7 @@ Used to find connections by their profile language. Click on “**Profile langua
 
 
 ### Start position
-Start position is the initial value where script start removing connection from search results then increment start position when script finishes the search results returned by initial request. Start position 0 would be the first record in your [**search result**](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
+Start position is the initial value where script start following connection from search results then increment start position when script finishes the search results returned by initial request. Start position 0 would be the first record in your [**search result**](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
 
 ![Start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Search.png)
 
@@ -141,4 +141,4 @@ To send profile view notification to connection whom you are following. Check th
 ![Send profile view notification to connection while following](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-profile-view.png)
 
 
-Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from disconnecting connections.
+Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from following connections.
