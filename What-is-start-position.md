@@ -1,4 +1,4 @@
-You can change software settings like daily limitations, saving advance search keywords filters, adjusting start position, hiding software in page load, restoring settings to default, importing and exporting software settings. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
+You can change software settings like daily limitations, saving advance search keywords filters, **adjusting start position**, hiding software in page load, restoring settings to default, importing and exporting software settings. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to change daily limits](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Change-script-setting.png)
 
