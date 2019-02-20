@@ -1,4 +1,4 @@
-You can withdraw or cancel sent invitations. Click on “**Withdraw sent invites**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
+You can withdraw or cancel sent invitations. Click the “**Withdraw sent invites**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to withdraw sent invitations](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Hot-to-Withdraw-sent-invites.png)
 
