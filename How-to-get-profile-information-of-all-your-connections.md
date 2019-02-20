@@ -34,5 +34,40 @@ Delay between collecting every single profile information in seconds.
 
 ![Start position Total connections and Delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Total-connections-and-Delay.png)
 
+### Downloading connections profile data
+Click the **download** button to download scraped data of your connections.
+
+![Download connections profile data](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Download-connections-profile-data.png)
+
+### What connections profile data would you be able to get?
+You would be able to get following information of your connections if available
+* First name
+* Last name
+* Email
+* Phone numbers
+* Twitter handle
+* Profile title
+* Industry name
+* Skills
+* Location name
+* Country code
+* Postal code
+* Profile URL
+* Instant messaging handles
+* Website links
+* Languages
+* Profile summary
+* Certifications
+* Courses
+* Degree name
+* Field of study 
+* School name
+* Position title
+* Job time period
+* Position description
+* Company name
+* Company industry
+* Company employee count
+* Company location name
 
 Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from collecting connections' profiles.
