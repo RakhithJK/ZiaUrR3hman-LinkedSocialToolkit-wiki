@@ -1,4 +1,4 @@
-You can change software settings like daily limitations, saving advance search keywords filters, adjusting start position, hiding software in page load, restoring settings to default, importing and exporting software settings. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
+You can change software settings like daily limitations, **saving advance search keywords filters**, adjusting start position, hiding software in page load, restoring settings to default, importing and exporting software settings. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to change daily limits](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Change-script-setting.png)
 
@@ -8,9 +8,11 @@ You can change software settings like daily limitations, saving advance search k
 * [**How to hide software window on page load**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-hide-software-window-on-page-load)
 * [**How to restore software settings to default**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-restore-software-settings-to-default)
 * [**How to export software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-export-software-settings)
-* [**How to import software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-import-software-settings)
+* [**How to import software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-import-software-settings)
 
-By default script doesn't saves advance search keywords [**First name, Last name, Title, Company name and School name**]. If you want to save these keywords filters follow below steps
+By default script doesn't saves advance search keywords [**First name, Last name, Title, Company name and School name**]. 
+
+## Follow these steps to save these keywords filters
 1. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu
 2. Check "**Save advance search keywords filters**" checkbox
 3. Click the “**Save**” button
