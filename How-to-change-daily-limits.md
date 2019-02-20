@@ -2,8 +2,13 @@ By default, daily limit is applied on every function. You can change daily limit
 
 ![How to change daily limits](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Change-script-setting.png)
 
-* [**How to withdraw sent invitations**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-withdraw-sent-invitations).
-* [**How to download sent invitations**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations).
+* **How to change daily limits**
+* [**How to save advance search keywords filters**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-save-advance-search-keywords-filters)
+* [**What is start position**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/What-is-start-position)
+* [**How to hide software window on page load**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-hide-software-window-on-page-load)
+* [**How to restore software settings to default**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-restore-software-settings-to-default)
+* [**How to export software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-export-software-settings)
+* [**How to import software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-import-software-settings)
 
 ## Follow these steps for changing daily limits
 1. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu
