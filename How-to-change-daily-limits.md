@@ -1,4 +1,4 @@
-By default, daily limit is applied on every function. You can change daily limits. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
+You can change software settings like **daily limitations**, saving advance search keywords filters, adjusting start position, hiding software in page load, restoring settings to default, importing and exporting software settings. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to change daily limits](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Change-script-setting.png)
 
@@ -20,7 +20,7 @@ By default, daily limit is applied on every function. You can change daily limit
 ### Membership types
 Recommended daily limits in software are based on your account membership type. **Free user** recommended daily limits on every feature is 100. **Premium user** recommended daily limit is 400 for every feature. You can not change daily limits if you have selected **Free user** or **Premium user** option.
 
-To change daily limits select "**Custom limits**" option and enter daily limits for every feature then Click the "**Save**" button to reflect changes.
+By default, daily limit is applied on every function. You can change daily limits. To change daily limits select "**Custom limits**" option and enter daily limits for every feature then Click the "**Save**" button to reflect changes.
 
 ![Membership types](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Membership-types.png)
 
