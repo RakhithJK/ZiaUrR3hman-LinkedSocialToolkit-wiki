@@ -24,4 +24,6 @@ Total number of invitations you want to cancel or withdraw.
 ### Delay
 Delay between withdrawing each sent invitation in seconds.
 
+![Start position Total invitations and Delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Total-invites-Delay.png)
+
 Click on “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop software from collecting sent invites.
