@@ -5,4 +5,4 @@ By default, software automatically sets start position and saves it. You can cha
 2. Uncheck "**Adjust start position automatically**"
 3. Click the “**Save**” button
 
-![How to change daily limits](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Change-script-setting.png)
+![How to change Script settings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Change-script-setting.png)
