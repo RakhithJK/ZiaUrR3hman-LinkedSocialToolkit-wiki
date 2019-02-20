@@ -112,6 +112,8 @@ You agree to indemnify and hold harmless **LST**, its contractors, its licencors
 This Agreement constitutes the entire agreement between Linked Social Toolkit and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of **LST**, or by the posting by **LST** of a revised version. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys' fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties' original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; **LST** may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
 
 Any questions about this Terms of Service & Privacy Policy should be addressed to
+
 info[at]linkedsocialtoolkit.com
+
 Last modified: January 1, 2019
 
