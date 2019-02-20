@@ -1,7 +1,7 @@
 **Linked Social Toolkit** make easier to collect all data of your 1st, 2nd and 3rd degree connections. You can analyze connections profile information in Excel or any spreadsheet.
 
 ## There are 2 ways to get profile information of your connections using Linked Social Toolkit
-1. [**Get profile information of targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections)
+1. [**Get profile information of targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-targeted-connections)
 3. **Get profile information of all your connections**
 
 ## Getting profile information of all your connections
