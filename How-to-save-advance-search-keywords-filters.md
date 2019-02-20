@@ -12,7 +12,7 @@ You can change software settings like daily limitations, **saving advance search
 
 By default script doesn't saves advance search keywords [**First name, Last name, Title, Company name and School name**]. 
 
-## Follow these steps to save these keywords filters
+## Follow these steps to save keywords filters
 1. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu
 2. Check "**Save advance search keywords filters**" checkbox
 3. Click the “**Save**” button
