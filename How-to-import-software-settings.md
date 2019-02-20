@@ -19,6 +19,7 @@ You can import software settings by following these steps
 
 ### Importing settings
 Click the “**Import**” button.
+
 ![How to import software settings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Import-settings.png)
 
 You will see dialog as below asking you to enter software settings. Open exported settings file in text editor then copy and paste settings in text area.
