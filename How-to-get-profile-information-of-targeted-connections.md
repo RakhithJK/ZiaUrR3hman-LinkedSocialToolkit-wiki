@@ -1,13 +1,24 @@
 **Linked Social Toolkit** make easier to collect all data of your 1st, 2nd and 3rd degree connections. You can analyze connections profile information in Excel or any spreadsheet.
 
+## There are 2 ways to get profile information of your connections using Linked Social Toolkit
+1. **Get profile information of targeted connections**
+3. [**Get profile information of all your connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-all-your-connections)
+
+## Getting profile information of targeted connections
 You can get information of your all connections as well as 2nd and 3rd degree connections using **Linked Social Toolkit**. Click the “**Get connections info**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to Get profile information of  1st or 2nd or 3rd+ connections profiles on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Get-profile-information-of-your-connections-on-linkedIn.png)
 
 ## Follow these steps for collecting connection profile information
 1. Click the “**Get connections info**” button from **Linked Social Toolkit** left menu
-2. Apply search filters to find connections' profiles you want to collect
+2. Apply search filters to find connections' profiles you want to collect and uncheck “**Get all connections**” checkbox
 3. Click the "**Get**" button
+
+## How to get profile information of targeted connections?
+You can get your targeted connections' information using search and other filters like industries, companies, locations etc. Please don’t check “**Get all connections**” checkbox to collect targeted connections' profile information. By using this feature you are allowed to search and collect maximum 1000 connections.
+
+![How to get profile information of targeted connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Get-targeted-connections-profile-information.png)
+
 
 ## Feature explanation
 ### Search
