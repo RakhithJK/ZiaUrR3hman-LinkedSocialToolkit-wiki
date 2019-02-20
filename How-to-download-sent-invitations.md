@@ -31,5 +31,5 @@ Click the "Download sent invitations data" button to download collected informai
 
 ![Download sent invitations](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Download-sent-invitations-button.png)
 
-Click on “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop software from collecting sent invites.
+Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop software from collecting sent invites.
 
