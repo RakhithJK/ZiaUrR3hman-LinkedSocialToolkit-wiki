@@ -2,8 +2,8 @@ You can accept received invitations. Click the â€œ**Accepts received invites**â€
 
 ![How to accept received invitations](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-accept-received-invitations.png)
 
-* [**How to withdraw sent invitations**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-withdraw-sent-invitations).
-* [**How to download sent invitations**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations).
+[**How to withdraw sent invitations**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-withdraw-sent-invitations).
+[**How to download sent invitations**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations).
 
 
 ## Follow these steps for accepting received invitations
