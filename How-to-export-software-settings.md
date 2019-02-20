@@ -17,6 +17,7 @@ You can change software settings like daily limitations, saving advance search k
 
 ### Exporting settings
 Click the “**Export**” button
+
 ![How to export software settings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Export-settings.png)
 
 Click inside text-area to copy all settings or click the “**Download settings**” button to download.
