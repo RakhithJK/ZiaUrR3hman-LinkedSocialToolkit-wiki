@@ -26,6 +26,6 @@ You will see dialog as below asking you to enter software settings. Open exporte
 
 ![How to import software settings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Import-settings-dialog.png)
 
-Click the “Finish Import” button, click the “Yes” button to confirm import settings.
+Click the “**Finish Import**” button, click the “**Yes**” button to confirm import settings.
 
 ![Confirm import settings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Confirm-import-settings.png)
