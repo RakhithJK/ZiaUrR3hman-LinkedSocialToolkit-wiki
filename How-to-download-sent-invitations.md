@@ -24,6 +24,8 @@ Total number of invitation details you want to download.
 ### Delay
 Delay between collecting information of each sent invitation in seconds.
 
+![Start position Total invitations and Delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Start-position-Total-invites-Delay.png)
+
 ### Downloading sent invitations data
 Click the "Download sent invitations data" button to download collected informaiton of sent invites.
 
