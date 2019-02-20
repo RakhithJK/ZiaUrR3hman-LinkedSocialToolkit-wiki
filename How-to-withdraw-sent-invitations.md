@@ -7,6 +7,8 @@ You can withdraw or cancel sent invitations. Click on “**Withdraw sent invites
 2. Enter number of days for invitation being sent
 3. Click the "**Start**" button
 
+[**How to download sent invitations**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations).
+
 ## Feature explanation
 ### Days
 Enter number of days for invitation being sent. Script will withdraw invitations that are older than your specified number of days.
