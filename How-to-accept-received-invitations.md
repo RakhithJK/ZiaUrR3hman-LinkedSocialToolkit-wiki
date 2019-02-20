@@ -1,4 +1,4 @@
-You can accept received invitations. Click the “Accepts received invites” button from  **Linked Social Toolkit** left menu then you will see dialog as below
+You can accept received invitations. Click the “**Accepts received invites**” button from  **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to accept received invitations](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-accept-received-invitations.png)
 
