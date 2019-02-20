@@ -8,15 +8,18 @@ You can change software settings like daily limitations, saving advance search k
 * [**How to hide software window on page load**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-hide-software-window-on-page-load)
 * **How to restore software settings to default**
 * [**How to export software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-export-software-settings)
-* [**How to import software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-import-software-settings)
+* [**How to import software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-import-software-settings)
 
-You can restore all software settings to default by following these steps
+## Follow these steps to restore all software settings to default
 1. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu
-2. click the “**Default**” button
+2. Click the “**Default**” button
 3. Confirm reset
+
+## Restoring settings
+Click the “**Default**” button
 
 ![How to restore software settings to defaults](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Default-settings.png)
 
-Click the “Yes” button to confirm reset.
+Click the “**Yes**” button to confirm reset.
 
 ![How to restore software settings to defaults](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Confirm-Default-settings.png)
