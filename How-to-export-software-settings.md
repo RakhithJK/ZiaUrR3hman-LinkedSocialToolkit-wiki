@@ -8,7 +8,7 @@ You can change software settings like daily limitations, saving advance search k
 * [**How to hide software window on page load**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-hide-software-window-on-page-load)
 * [**How to restore software settings to default**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-restore-software-settings-to-default)
 * **How to export software settings**
-* [**How to import software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-import-software-settings)
+* [**How to import software settings**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-import-software-settings)
 
 You can export all software settings by following these steps
 1. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu
