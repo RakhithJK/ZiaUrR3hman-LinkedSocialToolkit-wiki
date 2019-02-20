@@ -6,6 +6,7 @@ The following terms and conditions govern all use of the **https://linkedsocialt
  
 ### Your Linked Social Toolkit Account
 If you create an account on the Services, you are responsible for maintaining the security of your account, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You must immediately notify **LST** of any unauthorized uses of your account or any other breaches of security. **LST** will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions. You must be a human. Accounts registered by "bots" or other automated methods are not permitted. You must provide your legal full name, a valid email address, and any other information requested in order to complete the sign-up process. You must not, in the use of the Services, violate any laws in your jurisdiction and in Pakistan (including but not limited to copyright or trademark laws)
+
 ## The Information We collect for our Service
 ### Aggregation of User Data
 **LST** may aggregate the information you provide with similar information collected from other visitors to the Website or users of the Service in order to evaluate or enhance the Website or its Services. Specifically, **LST** may aggregate data to determine the usage patterns or interests of visitors to the Website or users of the Service, or for purposes related to the technical support or security of the Website and our computer systems. For example, we collect traffic data that is regularly generated with Users' online activities such as IP addresses, the name of the website from which you entered our website, session durations, viewed pages, type of mobile device and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website. The aggregated data that we evaluate, contains no personal information or other information that could identify an individual.
@@ -45,16 +46,16 @@ accordance with **LST** standard practices, procedures, and policies.
 
 ### Linked Social Toolkit API
 Any use of the API, including use of the API through a third-party product that accesses **LST**, is bound by these Terms of Service plus the following specific terms
-•	No one has been banned for using **LST**, but we wouldn't be responsible in case this happens. Don't mix our service with other automation tools. We will never sell any of your information to third parties.
-•	**LST** is not affiliated with LinkedIn or any third-party partners in any way.
-•	It is your sole responsibility to comply with LinkedIn rules and any legislation that you are subject to. You use **LST** at your own risk.
-•	We are not responsible for your actions and their consequences. We are not to blame in the unlikely case of your accounts getting banned for any reason.
-•	We require your **LST** API access to obtain required information for interacting with the APIs. We don't store, give away, or otherwise distribute your information to any third parties.
-•	We can't guarantee any specific outcome from using **LST**.
-•	We can't guarantee the continuous, uninterrupted or error-free operation of the service.
-•	Before you make a purchase decision you are advised to try **LST** with our Free Trial.
-•	We reserve the right to modify, suspend or withdraw the whole or any part of our service or any of its content at any time without notice and without incurring any liability.
-•	You expressly understand and agree that **LST** shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to: damages for loss of profits, goodwill, use, data or other intangible losses (even if **LST** has been advised of the possibility of such damages), resulting from your use of the API or third-party products that access data via the API.
+* No one has been banned for using **LST**, but we wouldn't be responsible in case this happens. Don't mix our service with other automation tools. We will never sell any of your information to third parties.
+* **LST** is not affiliated with LinkedIn or any third-party partners in any way.
+* It is your sole responsibility to comply with LinkedIn rules and any legislation that you are subject to. You use **LST** at your own risk.
+* We are not responsible for your actions and their consequences. We are not to blame in the unlikely case of your accounts getting banned for any reason.
+* We require your **LST** API access to obtain required information for interacting with the APIs. We don't store, give away, or otherwise distribute your information to any third parties.
+* We can't guarantee any specific outcome from using **LST**.
+* We can't guarantee the continuous, uninterrupted or error-free operation of the service.
+* Before you make a purchase decision you are advised to try **LST** with our Free Trial.
+* We reserve the right to modify, suspend or withdraw the whole or any part of our service or any of its content at any time without notice and without incurring any liability.
+* You expressly understand and agree that **LST** shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to: damages for loss of profits, goodwill, use, data or other intangible losses (even if **LST** has been advised of the possibility of such damages), resulting from your use of the API or third-party products that access data via the API.
 
 ### Rate limiting
 Abuse or excessively frequent requests to **LST** via the API may result in the temporary or permanent suspension of your account's access to the API. **LST**, in its sole discretion, will determine abuse or excessive usage of the API. **LST**, in its sole discretion, may make an attempt via email to warn the account owner prior to suspension.
@@ -92,17 +93,17 @@ The Services is provided "as is". **LST** and its suppliers and licencors hereby
 ### Limitation of Liability
 In no event will **LST**, or its suppliers or licencors, be liable with respect to any subject matter of
 this agreement under any contract, negligence, strict liability or other legal or equitable theory for:
-•	Any special, incidental or consequential damages
-•	The cost of procurement for substitute products or services
-•	For interruption of use or loss or corruption of data
-•	For any amounts that exceed the fees paid by you to **LST** under this agreement during the twelve (12) month period prior to the cause of action. 
+* Any special, incidental or consequential damages
+* The cost of procurement for substitute products or services
+* For interruption of use or loss or corruption of data
+* For any amounts that exceed the fees paid by you to **LST** under this agreement during the twelve (12) month period prior to the cause of action. 
 Linked Social Toolkit shall have no liability for any failure or delay due to matters beyond or not
 within their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
 
 ### General Representation and Warranty
 You represent and warrant that;
-•	Your use of the Services will be in strict accordance with the **LST** Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from Pakistan or the country in which you reside)
-•	Your use of the Services will not infringe or misappropriate the intellectual property rights of any third party.
+* Your use of the Services will be in strict accordance with the **LST** Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from Pakistan or the country in which you reside)
+* Your use of the Services will not infringe or misappropriate the intellectual property rights of any third party.
 
 ### Indemnification
 You agree to indemnify and hold harmless **LST**, its contractors, its licencors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys' fees, arising out of your use of the Services, including but not limited to your violation of this Agreement.
