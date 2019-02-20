@@ -13,7 +13,7 @@ You can change software settings like daily limitations, saving advance search k
 ## Follow these steps to export all software settings
 1. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu
 2. Click the “**Export**” button
-3. Copy or download settings
+3. Copy or click the "**download settings**" button
 
 ### Exporting settings
 Click the “**Export**” button
