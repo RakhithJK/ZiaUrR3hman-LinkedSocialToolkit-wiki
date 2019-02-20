@@ -2,6 +2,8 @@ You can download sent invitations details. Click on “**Withdraw sent invites**
 
 ![How to download sent invitations](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Hot-to-Withdraw-sent-invites.png)
 
+[**How to withdraw sent invitations**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-withdraw-sent-invitations).
+
 ## Follow these steps for withdrawing sent invitations
 1. Click the “**Withdraw sent invites**” button from  **Linked Social Toolkit** left menu
 2. Check the "**Download sent invitations**" checkbox
