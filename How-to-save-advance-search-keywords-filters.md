@@ -6,13 +6,13 @@ By default script doesn't saves advance search keywords [**First name, Last name
 ![How to change Script settings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Change-script-setting.png)
 
 Keywords filters will be saved for following features
-* **Message targeted users**
-* **Endorse connections**
-* **Add new connections**
-* **Remove connections**
-* **follow new connections**
-* **View connections**
-* **Get connections info**
+* [**Message targeted user**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-message-targeted-connections)
+* [**Endorse connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections)
+* [**Add new connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections)
+* [**Remove connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-remove-connections)
+* [**follow new connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections)
+* [**View connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-view-connections-profiles)
+* [**Get connections info**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-targeted-connections)
 
 ![Save advance search keywords filters](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Save-advance-search-keywords-filters.png)
 
