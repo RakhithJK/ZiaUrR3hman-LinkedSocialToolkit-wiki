@@ -12,11 +12,13 @@ You can change software settings like daily limitations, saving advance search k
 
 You can import software settings by following these steps
 1. Click the “**Change script settings**” button from  **Linked Social Toolkit** left menu
-2. click the “**Export**” button
+2. Click the “**Import**” button
 3. Open exported settings file, Copy and paste settings
 4. Click the "**Finish import**" button
 5. Confirm import
 
+### Importing settings
+Click the “**Import**” button.
 ![How to import software settings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Import-settings.png)
 
 You will see dialog as below asking you to enter software settings. Open exported settings file in text editor then copy and paste settings in text area.
