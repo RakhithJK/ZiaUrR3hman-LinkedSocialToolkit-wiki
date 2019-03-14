@@ -83,14 +83,14 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Send profile views while following prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections#profile-views)
 * [You can schedule follow connections, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections#delay)
 ### View profiles
-* View 1st, 2nd and 3rd degree connections
-* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
-* Send profile views while sending message to prospect
-* Send profile views while connecting with prospect
-* Send profile views while following prospect
-* Send profile views while endorsing skills of prospect
-* Send profile views while sending birthday wishes, work anniversary and new job greetings
-* You can schedule view connections profiles, add a daily limit and custom delays
+* [View 1st, 2nd and 3rd degree connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-view-connections-profiles#connections)
+* [Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-view-connections-profiles#using-boolean-search)
+* [Send profile views while sending message to prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#profile-views)
+* [Send profile views while connecting with prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections#profile-views)
+* [Send profile views while following prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections#profile-views)
+* [Send profile views while endorsing skills of prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections#profile-views)
+* [Send profile views while sending birthday wishes, work anniversary and new job greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-birthday-wishes-to-your-connections#profile-views)
+* [You can schedule view connections profiles, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-view-connections-profiles#delay)
 ### Auto responder
 * Auto respond with personalized message to birthday wishes, work anniversary and new job greetings.
 * Auto respond to “Thank you messages” from your connections after endorsing their skills
