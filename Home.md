@@ -54,19 +54,19 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Auto reply with personalized message to endorsement acknowledgments](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response)
 * [Send images and files as attachments with your message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#attachments)
 * [Send profile views while sending message to prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#profile-views)
-* You can schedule your messages, add a daily limit and custom delays
+* [You can schedule your messages, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#delay)
 ### Connect
-* Connect with 2nd and 3rd degree connections
-* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
-* Connect users with premium membership
-* Send personalized message with invitation
-* Find active prospects from post feeds and connect with thousands within a week
-* Connect with user who liked posts in post feeds
-* Connect with users from feeds based on keywords in profile title
-* Connect with users who commented on posts in feeds
-* Connect with users who liked or commented some specific post, article or video
-* Send profile views while connecting with prospect
-* You can schedule connections invitations, add a daily limit and custom delays
+* [Connect with 2nd and 3rd degree connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections#connections-search-filter)
+* [Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections#using-boolean-search)
+* [Connect users with premium membership](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections#connect-with-premium-users)
+* [Send personalized message with invitation](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections#include-a-personal-message)
+* [Find active prospects from post feeds and connect with thousands within a week](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds)
+* [Connect with user who liked posts in post feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds)
+* [Connect with users from feeds based on keywords in profile title](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds#keywords-for-connecting)
+* [Connect with users who commented on posts in feeds](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-posts)
+* [Connect with users who liked or commented some specific post, article or video](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-specific-post)
+* [Send profile views while connecting with prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections#profile-views)
+* [You can schedule connections invitations, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections#delay)
  
 ### Endorse
 * Endorse all your connections’ skills
