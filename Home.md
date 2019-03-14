@@ -11,6 +11,7 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 
 ## Brief introduction
 ### [Messaging](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections)
+
 **Linked Social Toolkit** helps you to create campaigns and send messages with images and files as attachments to your targeted connections. You can engage your prospect by sending them personalized birthday wishes, work anniversary greetings, new job greetings, promotion and addition position greetings. 
 
 ### Connect
