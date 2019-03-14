@@ -42,18 +42,18 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
  
 # Features
 ### Messaging
-* Create campaigns for messages
-* Send personalized messages to your all your connections
-* Send personalized messages to targeted connections
-* Send personalized birthday greetings
-* Send personalized work anniversary greetings
-* Send personalized new job, promotion and addition position greetings
-* Send follow up messages to new connections in real-time
-* Auto respond to messages in real-time
-* Auto reply with personalized message to birthday wishes, work anniversary and new job greetings.
-* Auto reply with personalized message to endorsement acknowledgments
-* Send images and files as attachments with your message
-* Send profile views while sending message to prospect
+* [Create campaigns for messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#create-a-campaign)
+* [Send personalized messages to your all your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections)
+* [Send personalized messages to targeted connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-message-targeted-connections)
+* [Send personalized birthday greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-birthday-wishes-to-your-connections)
+* [Send personalized work anniversary greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-work-anniversary-wishes-to-your-connections)
+* [Send personalized new job, promotion and addition position greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-new-job-wishes-to-your-connections)
+* [Send follow up messages to new connections in real-time](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-follow-up-message-to-new-connections)
+* [Auto respond to messages in real-time](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages)
+* [Auto reply with personalized message to birthday wishes, work anniversary and new job greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response)
+* [Auto reply with personalized message to endorsement acknowledgments](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response)
+* [Send images and files as attachments with your message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#attachments)
+* [Send profile views while sending message to prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections#profile-views)
 * You can schedule your messages, add a daily limit and custom delays
 ### Connect
 * Connect with 2nd and 3rd degree connections
