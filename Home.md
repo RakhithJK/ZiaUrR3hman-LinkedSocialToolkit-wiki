@@ -77,11 +77,11 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Send profile views while endorsing skills of prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections#profile-views)
 * [You can schedule skills endorsements, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections#delay)
 ### Follow
-* Follow 1st, 2nd and 3rd degree connections
-* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
-* Send follow notification to connections
-* Send profile views while following prospect
-* You can schedule follow connections, add a daily limit and custom delays
+* [Follow 1st, 2nd and 3rd degree connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections#connections)
+* [Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections#using-search-operators)
+* [Send follow notification to connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections)
+* [Send profile views while following prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections#profile-views)
+* [You can schedule follow connections, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-follow-connections#delay)
 ### View profiles
 * View 1st, 2nd and 3rd degree connections
 * Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
