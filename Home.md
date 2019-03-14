@@ -10,7 +10,7 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 **Linked Social Toolkit** is a browser extension works in all major browsers like Google Chrome, Mozilla Firefox, Opera and Microsoft Edge. It allows you to export or import your settings and configuration for prospect in few clicks. With Cloud based synchronization feature you can import and export your settings to Google Drive, Dropbox and OneDrive.
 
 ## Brief introduction
-### Messaging
+### [Messaging](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-mass-message-all-your-connections)
 **Linked Social Toolkit** helps you to create campaigns and send messages with images and files as attachments to your targeted connections. You can engage your prospect by sending them personalized birthday wishes, work anniversary greetings, new job greetings, promotion and addition position greetings. 
 
 ### Connect
