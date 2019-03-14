@@ -69,13 +69,13 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [You can schedule connections invitations, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-targeted-connections#delay)
  
 ### Endorse
-* Endorse all your connections’ skills
-* Endorse targeted connections’ skills
-* Auto endorse when someone message you with some text or keyword
-* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
-* Endorse connections skills without sending profile view
-* Send profile views while endorsing skills of prospect
-* You can schedule skills endorsements, add a daily limit and custom delays
+* [Endorse all your connections’ skills](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-all-your-connections)
+* [Endorse targeted connections’ skills](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections)
+* [Auto endorse when someone message you with some text or keyword](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-connections-skills-if-someone-message-you)
+* [Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections#using-boolean-search)
+* [Endorse connections skills without sending profile view](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections#profile-views)
+* [Send profile views while endorsing skills of prospect](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections#profile-views)
+* [You can schedule skills endorsements, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-targeted-connections#delay)
 ### Follow
 * Follow 1st, 2nd and 3rd degree connections
 * Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
