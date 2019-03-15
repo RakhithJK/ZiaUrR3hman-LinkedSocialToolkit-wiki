@@ -1,4 +1,5 @@
 **Linked Social Toolkit** is a userscript that that requires userscript manger (Tampermonkey) to perform its functionality. [Tampermonkey](https://tampermonkey.net/) is the most popular userscript manager, with over 10 million users. It's available for Google Chrome, Microsoft Edge, Opera Next, and Mozilla Firefox.
+#### Contact info@linkedsocialtoolkit.com for placing your order
 **Linked Social Toolkit** is easy to install, it is a two-step process
 1. Install Tampermonkey extension
 2. Install Linked Social Toolkit
