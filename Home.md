@@ -125,12 +125,16 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 ### Accept invites
 * [Accept received invitations with days’ filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-accept-received-invitations)
 ### Cross browser support for
-* Google Chrome -  full support
-* Mozilla Firefox -  full support
-* Opera -  full support
-* Microsoft Edge -  full support
+* [Google Chrome -  full support](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-install#google-chrome)
+* [Mozilla Firefox -  full support](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-install#mozilla-firefox)
+* [Opera -  full support](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-install#opera)
+* [Microsoft Edge -  full support](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-install#microsoft-edge)
 ### Extension settings
-* Export settings as backup or to import on other browser
-* Import settings in case of new installation
-* Restore all settings to default
-* Cloud based synchronization
+* [Export settings as backup or to import on other browser](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-export-software-settings)
+* [Import settings in case of new installation](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-import-software-settings)
+* [Restore all settings to default](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-restore-software-settings-to-default)
+* [Change daily limits](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-change-daily-limits)
+* [Save advance search keywords filters](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-save-advance-search-keywords-filters)
+* [What is start position](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/What-is-start-position)
+* [Hide software window on page load](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-hide-software-window-on-page-load)
+* [Cloud based synchronization](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki)
