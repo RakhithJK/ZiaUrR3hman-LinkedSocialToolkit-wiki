@@ -92,15 +92,15 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Send profile views while sending birthday wishes, work anniversary and new job greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-birthday-wishes-to-your-connections#profile-views)
 * [You can schedule view connections profiles, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-view-connections-profiles#delay)
 ### Auto responder
-* Auto respond with personalized message to birthday wishes, work anniversary and new job greetings.
-* Auto respond to “Thank you messages” from your connections after endorsing their skills
-* Auto endorse connections skills when they message you with specific text or keyword
-* Auto respond with custom message after finishing endorsement
-* Auto respond to new connections with personalized follow up messages
-* Exclude new connections from auto responder based on their company name
-* Create your own unlimited auto responder
-* Send images and files as attachments with your auto reply messages
-* You can schedule auto responder, add a daily limit and custom delays
+* [Auto respond with personalized message to birthday wishes, work anniversary and new job greetings](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response)
+* [Auto respond to “Thank you messages” from your connections after endorsing their skills](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response)
+* [Auto endorse connections skills when they message you with specific text or keyword](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-connections-skills-if-someone-message-you)
+* [Auto respond with custom message after finishing endorsement](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-connections-skills-if-someone-message-you)
+* [Auto respond to new connections with personalized follow up messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-follow-up-message-to-new-connections)
+* [Exclude new connections from auto responder based on their company name](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-send-follow-up-message-to-new-connections#exclude-connections-from-auto-reply)
+* [Create your own unlimited auto responder](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#create-auto-response)
+* [Send images and files as attachments with your auto reply messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#attachments)
+* [You can schedule auto responder, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages)
 ### Connections profile data
 * Download data of all your 1st connections as CSV file
 * Download profile information of 2nd or 3rd connections
