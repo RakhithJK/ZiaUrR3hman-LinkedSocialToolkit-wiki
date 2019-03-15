@@ -102,11 +102,13 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Send images and files as attachments with your auto reply messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#attachments)
 * [You can schedule auto responder, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages)
 ### Connections profile data
-* Download data of all your 1st connections as CSV file
-* Download profile information of 2nd or 3rd connections
-* Export targeted prospects to Excel
-* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
-* You can schedule for profile information, add a daily limit and custom delays
+* [Download data of all your 1st connections as CSV file](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-all-your-connections)
+* [Download profile information of 2nd or 3rd connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-targeted-connections)
+* [Export targeted prospects to Excel](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-all-your-connections#downloading-connections-profile-data)
+* [Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-targeted-connections#using-boolean-search)
+* [You can schedule for profile information, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-all-your-connections#delay)
+* [Download complete profile data of sent invites](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations)
+* [Get user’s current company contact details in Get connections info. and Download sent invite features. Company contact details includes company emails, phone numbers, company and user guessed emails, company website URL, description, followers count and specialties](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-all-your-connections)
 ### Remove connections
 * Clean up your network from unnecessary connections
 * Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
