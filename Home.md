@@ -110,15 +110,15 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Download complete profile data of sent invites](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations)
 * [Get user’s current company’s contact details[emails, phone numbers etc] in Get connections info. and Download sent invite](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-all-your-connections)
 ### Remove connections
-* Clean up your network from unnecessary connections
-* Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit
-* You can schedule remove connections, add a daily limit and custom delays
+* [Clean up your network from unnecessary connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-remove-connections)
+* [Use Boolean search, search operators, locations, industries, companies and schools to filter your targeted audience beyond 1000 search limit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-remove-connections#using-boolean-search)
+* [You can schedule remove connections, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-remove-connections#delay)
 ### Like
-* Like posts and comments seamlessly 
-* Sort posts by top and recent filters
-* Like posts based on some keywords
-* Like sponsored posts
-* You can schedule likes, add a daily limit and custom delays
+* [Like posts and comments seamlessly](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds)
+* [Sort posts by top and recent filters](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds#sorting-posts)
+* [Like posts based on some keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds#posts-keywords)
+* [Like sponsored posts](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds#like-sponsored-posts)
+* [You can schedule likes, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds#delay)
 ### Withdraw invites
 * Withdraw sent invitations with days’ filter 
 ### Accept invites
