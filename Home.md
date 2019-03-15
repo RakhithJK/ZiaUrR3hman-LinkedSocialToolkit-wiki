@@ -119,7 +119,7 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 * [Like posts based on some keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds#posts-keywords)
 * [Like sponsored posts](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds#like-sponsored-posts)
 * [You can schedule likes, add a daily limit and custom delays](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds#delay)
-### Withdraw invites
+### Sent invites
 * [Withdraw sent invitations with days’ filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-withdraw-sent-invitations)
 * [Download complete profile data of sent invites](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations)
 ### Accept invites
