@@ -45,6 +45,11 @@ Select the “**Post**” option from “**Connect with users who liked**” opt
 
 ![how to Connect with people who liked some post on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-liked-on-some-posts-on-linkedin.png)
 
+### Connections
+You can choose either you want to connect with 2nd or 3rd degree connections or both. It is **recommended** to connect with 2nd degree connection only.
+
+![Connections search filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connections-search-filter.png)
+
 ### Exclude keywords
 Enter comma separated keywords to search in **user's profile title** or **name** to exclude user from connection invitation. Keywords are not case-sensitive. Make sure to check "**Exclude user based on keywords**" checkbox.
 
