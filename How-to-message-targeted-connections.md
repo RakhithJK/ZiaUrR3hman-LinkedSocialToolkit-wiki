@@ -46,15 +46,15 @@ Enter your message in message text box. You can use **@name** for full name, **@
 
 ![Message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Message.png)
 
-### Exclude message to 
-If you want to avoid or exclude or stop your specific connections from sending message, then type connection name in input field then press **Enter key** or click search button. Connections list matching your criteria will be shown, just select the right connection. **Tab key** could also be used to navigate through search results. Use Enter key or left click for selecting your connection.
- 
-![Exclude-message-to](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Exclude-message-to.png)
-
 ### Exclude connections from campaign
 If you don’t want to send message to your connections whom you have already sent messages using another campaign, then check that campaign name to avoid or exclude or stop connections from sending message.
 
 ![Exclude-connections-from-campaign](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Exclude-connections-from-campaign.png)
+
+### Exclude message to 
+If you want to avoid or exclude or stop your specific connections from sending message, then type connection name in input field then press **Enter key** or click search button. Connections list matching your criteria will be shown, just select the right connection. **Tab key** could also be used to navigate through search results. Use Enter key or left click for selecting your connection.
+ 
+![Exclude-message-to](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Exclude-message-to.png)
 
 ### Search
 ![Search](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Search.png)
@@ -116,6 +116,11 @@ For example, to search for current software engineers not named Doe, who have at
 * Commas should not be included in between multiple search operators.
 * Spaces should not be included in between the search operator and the search term, such as **lastname:doe**.
 * Wildcard "*" searches not supported. 
+
+### Profile language search filter
+Used to find connections by their profile language. Click on “**Profile language**” tab, type language name or language code. From search results select language. You can add multiple languages in the same search.
+
+![Profile language search filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Profile-language-search-filter.png)
 
 ### Keywords search filter
 You can filter search using advance keywords filter for first name, last name, title, company name and school name. keep these blank if you don’t want to use.
