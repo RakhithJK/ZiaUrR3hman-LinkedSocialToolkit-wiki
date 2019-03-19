@@ -129,6 +129,11 @@ Used to filter connections by their school, university or college name. Click on
 
 ![School search filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/School-search-filter.png)
 
+### Profile language search filter
+Used to find connections by their profile language. Click on “**Profile language**” tab, type language name or language code. From search results select language. You can add multiple languages in the same search.
+
+![Profile language search filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Profile-language-search-filter.png)
+
 ### Include a personal message
 You can enter your personalized invitation message. Use **@name**, **@firstName** or **@lastName** in the text area below, to act as a placeholder for the entire name, first name or last name of the user. Keep it blank if you don’t want to add invitation message. These short codes are case-sensitive.
 
