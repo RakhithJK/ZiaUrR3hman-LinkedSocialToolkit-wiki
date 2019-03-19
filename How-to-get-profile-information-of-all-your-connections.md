@@ -19,6 +19,14 @@ Check “**Get all connections**” checkbox to get all your connections’ prof
 
 ![How to get profile information of all my connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Get-all-connections-profile-information.png)
 
+## How to Get user’s current company’s contact details?
+Check “**Get user’s current company’s contact details**” checkbox to get user’s current company’s contact details. Company contact details includes **company emails**, **phone numbers**, **company and user guessed emails**, **company website URL**, **description**, **followers count and specialties**.
+
+![How to Get user’s current company’s contact details](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-Get-users-current-companys-contact-details.png)
+
+Additional permission would be required to get user’s current company’s contact details. **Tampermonkey extension** will ask for your permission to allow or forbid cross-origin requests. So when you get prompted for permission, It is recommended to click the **Always allow all domains** button in order to get user’s current company’s contact details. Screenshot of permission page is as below
+
+![Additional permission would be required to get user’s current company’s contact detailss](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/permitCrossOriginRequest.png)
 
 ## Feature explanation
 ### Start position
@@ -69,5 +77,9 @@ You would be able to get following information of your connections if available
 * Company industry
 * Company employee count
 * Company location name
-
+* Current company emails
+* Current 
+* Current 
+* Current 
+* Current 
 Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from collecting connections' profiles.
