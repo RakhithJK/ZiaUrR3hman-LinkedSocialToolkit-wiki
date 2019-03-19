@@ -55,22 +55,22 @@ You can send images and files as attachments with your auto reply message. Click
 Check the checkbox to enable or uncheck to disable auto response. **Linked Social Toolkit** have default templates for auto responding to <b>birthday wishes</b>, <b>work anniversary wishes</b>, <b>new job greetings wishes etc</b>. These templates have keywords defined in different languages.
 
 ### Auto respond to “Thank you for endorsing my XYZ skill” messages
-Check the checkbox before <b>endorsing</b> keywords to enable it and Click on "**Start**" button to start auto responder. The best way get endorsements for your skills is to request your connections in **reply message** to endorse your skill.
+Check the checkbox against <b>endorsing</b> keywords to enable it and Click on "**Start**" button to start auto responder. The best way get endorsements for your skills is to request your connections in **reply message** to endorse your skill.
 
 ![Auto respond to “Thank you for endorsing my XYZ skill” messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-endorsing-on-linkedin.png)
 
 ### Auto respond to birthday wishes
-Check the checkbox before <b>birthday</b> keywords to enable it and Click on "**Start**" button to start auto responder.
+Check the checkbox against <b>birthday</b> keywords to enable it and Click on "**Start**" button to start auto responder.
 
 ![Auto respond to birthday wishes from your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-birthday-wishes-on-linkedin.png)
 
 ### Auto respond to new job wishes
-Check the checkbox before <b>new job</b> keywords to enable it and Click on "**Start**" button to start auto responder.
+Check the checkbox against <b>new job</b> keywords to enable it and Click on "**Start**" button to start auto responder.
 
 ![Auto respond to new job wishes from your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-new-job-wishes-on-linkedin.png)
 
 ### Auto respond to work anniversary wishes
-Check the checkbox before <b>work anniversary</b> keywords to enable it and Click on "**Start**" button to start auto responder.
+Check the checkbox against <b>work anniversary</b> keywords to enable it and Click on "**Start**" button to start auto responder.
 
 ![Auto respond to work anniversary wishes from your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-work-anniversary-wishes-on-linkedin.png)
 
