@@ -25,7 +25,7 @@ Click on “**Auto respond messages**” button from **Linked Social Toolkit** l
 4. Click the "**Start**" button
 
 ## Feature explanation
-You can auto respond to messages based on some keywords in message. So whenever **Linked Social Toolkit** receives the message containing your define keyword, it will automatically replay with your replay message defined for that keyword.
+You can auto respond to messages based on some keywords in message. So whenever **Linked Social Toolkit** receives the message containing your define keyword, it will automatically reply with your reply message defined for that keyword.
 
 ## Create auto response
 Click on plus icon to create your own automatic responses for messages.
@@ -52,10 +52,10 @@ You can send images and files as attachments with your auto reply message. Click
 ![Send images and files as attachments with your auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-with-images-and-files-as-attachments-with-your-message.png)
 
 ### Enabling auto response
-Check the checkbox to enable or uncheck to disable auto response. Click on "**Start**" button to start auto responder.
+Check the checkbox to enable or uncheck to disable auto response. **Linked Social Toolkit** have default templates for auto responding to <b>birthday wishes</b>, <b>work anniversary wishes</b>, <b>new job greetings wishes etc</b>. These templates have keywords defined in different languages.
 
 ### Auto respond to “Thank you for endorsing my XYZ skill” messages
-Check the checkbox near <b>endorsing</b> keywords to enable it and Click on "**Start**" button to start auto responder.
+Check the checkbox near <b>endorsing</b> keywords to enable it and Click on "**Start**" button to start auto responder. The best way get endorsements for your skills is to request your connections in reply message to endorse your skill.
 
 ![Auto respond to “Thank you for endorsing my XYZ skill” messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-endorsing-on-linkedin.png)
 
