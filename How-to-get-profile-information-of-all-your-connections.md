@@ -78,8 +78,12 @@ You would be able to get following information of your connections if available
 * Company employee count
 * Company location name
 * Current company emails
-* Current 
-* Current 
-* Current 
-* Current 
+* Current phone numbers
+* Current company guessed emails
+* User guessed emails
+* Current company website URL
+* Current company description
+* Current company total followers count
+* Current company specialties
+
 Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from collecting connections' profiles.
