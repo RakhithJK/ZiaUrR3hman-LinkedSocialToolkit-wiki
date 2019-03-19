@@ -47,13 +47,13 @@ Enter comma separated keywords in posts keywords text area and check “**Like p
 If you unchecked “**Like posts based on keywords**” option, then script will not search for keywords in posts otherwise it will send invitation to people if any keywords found.
 
 ### Exclude keywords
-Enter comma separated keywords to search in **user's profile title** or **name** to exclude user from connection invitation. Keywords are not case-sensitive. Make sure to check "**Exclude user based on keywords**" option.
+Enter comma separated keywords to search in **user's profile title** or **name** to exclude user from connection invitation. Keywords are not case-sensitive. Make sure to check "**Exclude user based on keywords**" checkbox.
 
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/exclude-keyword-in-profile-title-or-name.png)
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/exclude-keyword-in-profile-title-or-name-checkbox.png) 
 
 ### Keywords for connecting
-Enter comma separated keywords in text area and check “**Connect to user based on keywords**” checkbox If you want to connect with users based on some keywords in their headline or title. 
+Enter comma separated keywords to search in **user's profile title** or **name** before sending a connection invitation. Keywords are not case-sensitive. Make sure to check "**Connect user based on keywords**" checkbox.
 
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image029.png)
 ![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image031.png) 
