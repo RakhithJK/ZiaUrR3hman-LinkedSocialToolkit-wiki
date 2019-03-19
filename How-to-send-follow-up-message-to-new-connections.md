@@ -49,7 +49,7 @@ You can exclude new connections from auto reply based on their company name. Ent
 ### Attachments
 You can send images and files as attachments with your follow up message for new connections. Click the “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
 
-![Send images and files as attachments with your follow up message for new connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
+![Send images and files as attachments with your follow up message for new connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-with-images-and-files-as-attachments-with-your-message.png)
 
 Enter all required information and click on “**Update**” button to save changes. Click the "**Start**" button to start auto responder.
 
