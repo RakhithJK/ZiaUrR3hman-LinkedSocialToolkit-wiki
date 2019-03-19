@@ -5,7 +5,7 @@ We are firm believer in the law of reciprocity, which means that people are incl
 Before endorsing your connections' skills, it is **recommended** to [**turn on auto responder**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#enabling-auto-response) that will auto respond to “Thank you messages” from your connections which you get after endorsing their skills.
 
 ## There are 3 ways to endorse skills of to your connections using Linked Social Toolkit
-1. [**Endorse connections' skills through auto responder**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-connections-skills-if-someone-message-you)
+1. [**Endorse connections' skills through auto responder**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-connections-skills-if-someone-message-you)
 2. **Endorse targeted connections**
 3. [**Endorse all connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-all-your-connections)
 
