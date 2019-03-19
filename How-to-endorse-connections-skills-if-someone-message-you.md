@@ -19,7 +19,8 @@ Social media has become the perfect place for social selling. It has the right m
 3. [**Endorse all connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-endorse-all-your-connections)
 
 # Auto endorse skills with auto responder
-Before endorsing your connections' skills, it is **recommended** to [**turn on auto responder**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-thank-you-for-endorsing-my-xyz-skill-messages) that will auto respond to “Thank you messages” from your connections which you get after endorsing their skills.
+Before endorsing your connections' skills, it is **recommended** to [**turn on auto responder**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-auto-respond-messages#auto-respond-to-thank-you-for-endorsing-my-xyz-skill-messages) that will auto respond to “**Thank you messages**” from your connections which you get after endorsing their skills.
+
 You can auto endorse your connections’ skills if someone sends you a message containing specific keywords. Click the “**Auto respond messages**” button from **Linked Social Toolkit** left menu then you will see dialog as below
 
 ![How to set up an auto responder on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-or-replay-messages-on-linkedin.png)
