@@ -25,7 +25,8 @@ Click on “**Auto respond messages**” button from **Linked Social Toolkit** l
 4. Click the "**Start**" button
 
 ## Feature explanation
-You can auto respond to messages based on some keywords in message. 
+You can auto respond to messages based on some keywords in message. So whenever **Linked Social Toolkit** receives the message containing your define keyword, it will automatically replay with your replay message defined for that keyword.
+
 ## Create auto response
 Click on plus icon to create your own automatic responses for messages.
 
@@ -62,6 +63,13 @@ Check the checkbox near <b>endorsing</b> keywords to enable it and Click on "**S
 Check the checkbox near <b>birthday</b> keywords to enable it and Click on "**Start**" button to start auto responder.
 
 ![Auto respond to birthday wishes from your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-birthday-wishes-on-linkedin.png)
+
+### Auto respond to new job wishes from your connections
+Check the checkbox near <b>new job</b> keywords to enable it and Click on "**Start**" button to start auto responder.
+
+![Auto respond to new job wishes from your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-new-job-wishes-on-linkedin.png)
+
+
 
 ### Edit or Delete auto response
 You can edit auto response by clicking on “**Edit**” button or click on “**Delete**” button to delete auto response.
