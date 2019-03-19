@@ -59,16 +59,20 @@ Check the checkbox near <b>endorsing</b> keywords to enable it and Click on "**S
 
 ![Auto respond to “Thank you for endorsing my XYZ skill” messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-endorsing-on-linkedin.png)
 
-### Auto respond to birthday wishes from your connections
+### Auto respond to birthday wishes
 Check the checkbox near <b>birthday</b> keywords to enable it and Click on "**Start**" button to start auto responder.
 
 ![Auto respond to birthday wishes from your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-birthday-wishes-on-linkedin.png)
 
-### Auto respond to new job wishes from your connections
+### Auto respond to new job wishes
 Check the checkbox near <b>new job</b> keywords to enable it and Click on "**Start**" button to start auto responder.
 
 ![Auto respond to new job wishes from your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-new-job-wishes-on-linkedin.png)
 
+### Auto respond to work anniversary wishes
+Check the checkbox near <b>work anniversary</b> keywords to enable it and Click on "**Start**" button to start auto responder.
+
+![Auto respond to work anniversary wishes from your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-work-anniversary-wishes-on-linkedin.png)
 
 
 ### Edit or Delete auto response
