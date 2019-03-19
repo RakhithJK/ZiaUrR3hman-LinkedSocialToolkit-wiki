@@ -56,7 +56,7 @@ Enter your reply message that will be sent once endorsement is done. You can use
 ### Attachments
 You can send images and files as attachments with your auto reply message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
 
-![Send images and files as attachments with your auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
+![Send images and files as attachments with your auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-with-images-and-files-as-attachments-with-your-message.png)
 
 
 Click the “**Stop script execution**” button from **Linked Social Toolkit** left menu to stop script from auto endorsing connections skills.
