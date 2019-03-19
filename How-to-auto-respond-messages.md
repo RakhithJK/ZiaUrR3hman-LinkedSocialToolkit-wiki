@@ -54,8 +54,14 @@ You can send images and files as attachments with your auto reply message. Click
 Check the checkbox to enable or uncheck to disable auto response. Click on "**Start**" button to start auto responder.
 
 ### Auto respond to “Thank you for endorsing my XYZ skill” messages
-Check the checkbox near endorsing keywords to enable it and Click on "**Start**" button to start auto responder.
+Check the checkbox near <b>endorsing</b> keywords to enable it and Click on "**Start**" button to start auto responder.
+
 ![Auto respond to “Thank you for endorsing my XYZ skill” messages](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-endorsing-on-linkedin.png)
+
+### Auto respond to birthday wishes from your connections
+Check the checkbox near <b>birthday</b> keywords to enable it and Click on "**Start**" button to start auto responder.
+
+![Auto respond to birthday wishes from your connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Enabling-auto-response-for-birthday-wishes-on-linkedin.png)
 
 ### Edit or Delete auto response
 You can edit auto response by clicking on “**Edit**” button or click on “**Delete**” button to delete auto response.
