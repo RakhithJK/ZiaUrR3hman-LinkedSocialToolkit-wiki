@@ -46,7 +46,9 @@ Check “**Like sponsored posts**” checkbox if you want to like sponsored post
 
 ![Like posts, comments, sponsored posts, Start position and delay](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/image316.png)
 
-
 Click on “**Stop script execution**” button to stop script from liking posts, comments or connecting.
  
+## Inviting or connecting from post feeds
+1. [**Connect with users who liked posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds)
+2. [**Connect with users who commented on posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-posts)
 
