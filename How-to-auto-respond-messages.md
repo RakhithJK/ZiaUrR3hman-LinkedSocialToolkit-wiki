@@ -48,7 +48,7 @@ Enter your reply message for your keywords. You can use **@name** for entire nam
 ### Attachments
 You can send images and files as attachments with your auto reply message. Click on “**Attach an image**” or “**Attach a file**”, then select your attachment. You can also add multiple attachments with single message script will save your attachment.
 
-![Send images and files as attachments with your auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/send-images-and-files-as-attachments-with-your-message.png)
+![Send images and files as attachments with your auto reply message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Auto-respond-with-images-and-files-as-attachments-with-your-message.png)
 
 ### Enabling auto response
 Check the checkbox to enable or uncheck to disable auto response. Click on "**Start**" button to start auto responder.
