@@ -1,8 +1,9 @@
 **Linked Social Toolkit** make easier to collect all data of your 1st, 2nd and 3rd degree connections. You can analyze connections profile information in Excel or any spreadsheet.
 
-## There are 2 ways to get profile information of your connections using Linked Social Toolkit
+## There are 3 ways to get profile information
 1. [**Get profile information of targeted connections**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-get-profile-information-of-targeted-connections)
-3. **Get profile information of all your connections**
+2. **Get profile information of all your connections**
+3. [**How to download sent invitation**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-download-sent-invitations)
 
 ## Getting profile information of all your connections
 You can get information of your all connections using **Linked Social Toolkit**. Click the “**Get connections info**” button from **Linked Social Toolkit** left menu then you will see dialog as below
