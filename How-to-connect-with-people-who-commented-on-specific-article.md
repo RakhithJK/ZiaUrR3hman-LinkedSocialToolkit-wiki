@@ -45,6 +45,23 @@ Select the “**Article**” option from “**Connect with users who commented o
 
 ![how to Connect with people who commented on some Article on LinkedIn with personal message](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connect-with-users-who-commented-on-some-article-on-linkedin.png)
 
+### Connections
+You can choose either you want to connect with 2nd or 3rd degree connections or both. It is **recommended** to connect with 2nd degree connection only.
+
+![Connections search filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Connections-search-filter.png)
+
+### Exclude keywords
+Enter comma separated keywords to search in **user's profile title** or **name** to exclude user from connection invitation. Keywords are not case-sensitive. Make sure to check "**Exclude user based on keywords**" checkbox.
+
+![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/exclude-keyword-in-profile-title-or-name.png)
+![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/exclude-keyword-in-profile-title-or-name-checkbox.png) 
+
+### Keywords for connecting
+Enter comma separated keywords to search in **user's profile title** or **name** before sending a connection invitation. Keywords are not case-sensitive. Make sure to check "**Connect user based on keywords**" checkbox.
+
+![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image029.png)
+![How-to-connect-with-peoples-based-on-some-keywords](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/How-to-connect-with-peoples-based-on-some-keywords-image031.png) 
+ 
 ### Include a personal message
 You can enter your personalized invitation message. Use **@name**, **@firstName** or **@lastName** in the text area below, to act as a placeholder for the entire name, first name or last name of the user. Keep it blank if you don’t want to add invitation message. These short codes are case-sensitive.
 
