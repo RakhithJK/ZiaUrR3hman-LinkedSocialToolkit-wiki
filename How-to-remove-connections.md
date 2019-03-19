@@ -111,6 +111,10 @@ Used to filter connections by their school, university or college name. Click on
 
 ![School search filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/School-search-filter.png)
 
+### Profile language search filter
+Used to find connections by their profile language. Click on “**Profile language**” tab, type language name or language code. From search results select language. You can add multiple languages in the same search.
+
+![Profile language search filter](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/Profile-language-search-filter.png)
 
 ### Start position
 Start position is the initial value where script start removing connection from search results then increment start position when script finishes the search results returned by initial request. Start position 0 would be the first record in your [**search result**](https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&origin=FACETED_SEARCH).
