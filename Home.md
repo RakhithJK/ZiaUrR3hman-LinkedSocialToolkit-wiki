@@ -26,7 +26,7 @@ With **Linked Social Toolkit [LST]** it is simpler, easier, cost effective and f
 **Linked Social Toolkit** make easier to collect all data of your 1st, 2nd and 3rd degree connections. You can analyze connections profile information in Excel or any spreadsheet. 
 #### [→ Remove connections](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-remove-connections)
 **Linked Social Toolkit** aid you to clean up your network from unnecessary contacts through remove connections feature. 
-#### [Like posts and comments](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds)
+#### [→ Like posts and comments](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-like-posts-and-comments-from-post-feeds)
 **Linked Social Toolkit** helps you to interact with your network by liking posts and comments. You can sort posts through recent and top filter. You can like posts based on keywords.
 #### [→ Accept and withdraw invites](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-accept-received-invitations)
 **Linked Social Toolkit** supports to accept all received invitations as well as withdraw pending sent invitations.
