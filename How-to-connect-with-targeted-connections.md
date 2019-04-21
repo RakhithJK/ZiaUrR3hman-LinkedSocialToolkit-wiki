@@ -1,7 +1,9 @@
 We are always interested in growing our networks, and **Linked Social Toolkit** is the ideal tool for that. On Social media you can find just about anybody that might be a prospect, partner, or maybe even just a good person to know in your industry. **Linked Social Toolkit** helps you to find leads, generate new business and reach more people.
 
 **Linked Social Toolkit** automates connecting to prospect through various techniques and offers you to send personalized invitations. You can add thousands of active connections within a week or more from post feeds. You can also send invitations to connections with premium membership as well.
-# Contact ziaurr3hman@hotmail.com to get free trial
+
+## Contact ziaurr3hman@hotmail.com to get free trial
+
 ## There are 9 different ways for Inviting or Connecting using Linked Social Toolkit
 1. [**Connect with users who liked posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds)
 2. [**Connect with users who commented on posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-commented-on-posts)
