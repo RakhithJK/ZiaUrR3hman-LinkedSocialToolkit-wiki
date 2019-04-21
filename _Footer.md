@@ -1,1 +1,1 @@
-**Contact info@linkedsocialtoolkit.com for any query**
+**Contact ziaurr3hman@hotmail.com for any query**
