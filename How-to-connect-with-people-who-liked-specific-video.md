@@ -37,7 +37,7 @@ Open a new tab type “**view-source:**” in address bar then paste copied link
 
 > **view-source:https://www.linkedin.com/feed/update/urn:li:activity:XXXXXXXXXXXXXXXXXXX/**
 
-Press enter to load source code of the video. On source page press **Ctrl + F** to find Video ID, then search for “**urn:li:ugcPost:**” you will get the Video ID, copy it.
+Press enter to load source code of the video. On source page press **Ctrl + F** to find Video ID, then search for “**urn:li:ugcPost:**”, go to the last match, you will get the Video ID, copy it.
 
 ![How to view source code on LinkedIn](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/raw/master/images/view-source-video.png)
 
