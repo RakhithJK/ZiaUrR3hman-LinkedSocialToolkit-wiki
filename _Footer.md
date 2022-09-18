@@ -1,1 +1,1 @@
-**Contact info@linkedsocialtoolkit.com for any query**
+** Try for free → [https://linkedsocialtoolkit.com](https://linkedsocialtoolkit.com)**
