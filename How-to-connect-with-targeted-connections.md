@@ -2,7 +2,7 @@ We are always interested in growing our networks, and **Linked Social Toolkit** 
 
 **Linked Social Toolkit** automates connecting to prospect through various techniques and offers you to send personalized invitations. You can add thousands of active connections within a week or more from post feeds. You can also send invitations to connections with premium membership as well.
 
-## Contact ziaurr3hman@hotmail.com to get free trial
+### Try for free → [https://linkedsocialtoolkit.com](https://linkedsocialtoolkit.com)
 
 ## There are 9 different ways for Inviting or Connecting using Linked Social Toolkit
 1. [**Connect with users who liked posts in new feeds**](https://github.com/ZiaUrR3hman/LinkedSocialToolkit/wiki/How-to-connect-with-people-who-liked-posts-in-new-feeds)
